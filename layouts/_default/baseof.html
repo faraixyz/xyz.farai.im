@@ -6,6 +6,10 @@
     <title>{{ cond .IsHome "" (print .Title " | ") }}{{ site.Title }}</title>
     {{ hugo.Generator }}
     <link rel="canonical" href="{{ .Permalink }}">
+    {{ range site.Params.author.links -}}
+        <link rel="me" href="{{ .url }}" title="{{ .title }}">
+    {{ end }}
+    {{- partialCached "css.html" . }}
 </head>
 <body>
     <main id="main" tabindex="-1">
