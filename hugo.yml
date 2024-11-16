@@ -1,6 +1,7 @@
 title: Farai
 languageCode: en-zw
 baseURL: https://im.farai.xyz/
+disableKinds: [404, robotstxt, rss, sitemap, taxonomy, term]
 
 params:
   description: The personal website belonging to the man known as Farai
@@ -22,3 +23,14 @@ params:
 taxonomies:
   tag: tags
   tech: tech
+
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: the-classics
+      target: content/the-classics/
+    - source: assets
+      target: assets
+    - source: images
+      target: assets/images
