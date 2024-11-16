@@ -9,5 +9,10 @@
         <p>{{ with .Params.fancyDescription -}}{{ markdownify . }}{{ else }}{{ . }}{{ end }}</p>
         {{- end }}
     </div>
+    <ul>
+    {{ range .RegularPages -}}
+        {{ .Render "li" }}
+    {{- end }}
+    </ul>
 </div>
 {{ end }}
