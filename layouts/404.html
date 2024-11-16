@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error 404: Page Not Found | {{ site.Title }}</title>
+    <style>
+    html {
+        font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+        line-height: 1.5;
+        color: rgb(64, 64, 64);
+    }
+
+    body {
+        max-width: 80ch;
+        margin: 0 auto;
+        padding-inline: 1rem;
+    }
+    </style>
+</head>
+<body onload="e.href += '&body=I couldn\'t find this web page ' + window.location + '.' ">
+    <h1>Error 404: Page Not Found</h1>
+    <p>The page you requested isn't here. 404 pages tend to have jokes but since I'm bad at jokes I thought I'd help you find what you need. The most likely reason as to why there's you can't find this page is that I might not have moved it into my site yet as I'm working on consolidating my old websites into one, all <del>75</del> <del>84</del> <del>96</del> <del>110</del> versions of them.</p>
+    <p>
+        If you need the page, try finding it on an online archive of my previous sites:
+    </p>
+    <ul>
+        <li><a href="https://archive.is/*.farai.xyz">farai.xyz</a></li>
+        <li><a href="https://archive.is/*.agckb.xyz">agckb.xyz</a></li>
+        <li><a href="https://web.archive.org/web/20230000000000*/fgandiya.me">fgandiya.me</a></li>
+        <li><a href="https://web.archive.org/web/20230000000000*/faraicl.wordpress.com">faraicl.wordpress.com</a></li>
+        <li><a href="https://web.archive.org/web/20190715000000*/fgandiya.com">fgandiya.com</a></li>
+        <li><a href="https://web.archive.org/web/20230000000000*/agckb.wordpress.com">agckb.wordpress.com</a></li>
+    </ul>
+    <p>You can also try <a href="https://google.com/search?q=site:{{ site.BaseURL }}">searching for it on Google</a>.</p>
+    <p>If the page isn't in any of the archives and you expected something here, <a id=e href="mailto:gandiyafarai+feedback@gmail.com?subject=Found a broken link">email me</a> and I'll try to fix it.</p>
+    <p>You can also go back <a href="/">home</a>.</p>
+</body>
+</html>
