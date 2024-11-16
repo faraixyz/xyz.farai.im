@@ -5,9 +5,6 @@ publishdate: 2024-06-23T16:27:21+02:00
 lastmod: 2024-07-21T20:19:49+02:00
 description: Render hook for markdown links
 tech: [Hugo]
-updates:
-    - date: 2024-07-21T20:19:49+02:00
-      note: Added support for attributes
 draft: false
 ---
 
