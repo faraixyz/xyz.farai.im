@@ -1,10 +1,15 @@
 ---
 title: Let a website be a worry stone.
+description: COVID was tough. Why not use a website redesign as a way to cope?
 link: https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/
 date: 2021-04-11T17:48:40+0200
+lastmod: 2024-11-16T17:55:00+02:00
 tags: [mental-health, personal-websites]
 draft: false
 ---
+
+*So three years after writing this post I've redesigned my site over 100 times! Redesigning this site is basically my stress ball.*
+___
 
 {{% figure %}}
 ![A hand holding a worry stone with the stone resting against the index finger and the thumb set in the stone's dimple](/images/worry-stone.jpg)
