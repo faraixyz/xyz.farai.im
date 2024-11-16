@@ -1,0 +1,3 @@
+<figcaption{{ range $attr, $val := .Params }} {{ print $attr | safeHTMLAttr }}{{ if ne $val "" }}{{ print `="` $val `"` | safeHTMLAttr }}{{ end }}{{ end }}>
+{{ .Inner }}
+</figcaption>
