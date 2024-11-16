@@ -2,6 +2,23 @@ title: Farai
 languageCode: en-zw
 baseURL: https://im.farai.xyz/
 
+params:
+  description: The personal website belonging to the man known as Farai
+  author:
+    name: Farai
+    email: gandiyafarai@gmail.com
+    links:
+      - url: https://bsky.app/profile/farai.xyz
+        title: Bluesky @farai.xyz
+      - url: https://mas.to/@faraixyz
+        title: Mastodon via Mas.to @faraixyz
+      - url: https://tiktok.com/@faraixyz
+        title: TikTok @faraixyz
+      - url: https://youtube.com/@faraixyz
+        title: YouTube @faraixyz
+      - url: https://github.com/faraixyz
+        title: GitHub @faraixyz
+
 taxonomies:
   tag: tags
   tech: tech

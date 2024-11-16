@@ -1,0 +1,42 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{- if strings.HasPrefix $u.String "#" }}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment }}
+{{- else if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path }}
+  {{- $path := strings.TrimPrefix "/content" $u.Path }}
+  {{- with or
+    ($.PageInner.GetPage $path)
+    ($.PageInner.Resources.Get $path)
+    (resources.Get $path)
+  -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $href = printf "%s?%s" $href . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $href = printf "%s#%s" $href . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "Link %s referenced in %s not found." $.Destination $.PageInner.File.Filename -}}
+  {{- end -}}
+{{- end -}}
+{{- $attributes := dict "href" $href -}}
+{{- with .Title -}}
+    {{- if hasPrefix . `{` -}}
+        {{- $attrObj := transform.Unmarshal . -}}
+        {{- range $k, $v := $attrObj -}}
+            {{- $attributes = merge $attributes (dict $k $v) -}}
+        {{- end -}}
+    {{- else -}}
+        {{- $attributes = merge $attributes (dict "title" . ) -}}
+    {{- end -}}
+{{- end -}}
+<a
+  {{- range $k, $v := $attributes -}}
+    {{- if $v -}}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+    {{- end -}}
+  {{- end -}}
+  >{{ .Text | safeHTML }}</a>
+{{- /**/ -}}
