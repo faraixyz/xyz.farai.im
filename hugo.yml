@@ -24,6 +24,11 @@ taxonomies:
   tag: tags
   tech: tech
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 module:
   mounts:
     - source: content
