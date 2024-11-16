@@ -1,0 +1,8 @@
+
+.highlight {
+    overflow-x: auto;
+    background-color: #272822;
+}
+.highlight pre {
+    padding: 0.5rem
+}
