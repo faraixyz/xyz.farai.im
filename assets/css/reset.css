@@ -1,0 +1,109 @@
+/*
+    My CSS Reset, heavily ripped off from people better at CSS than I am, like:
+    * CSS Remedy by Jen Simmons https://github.com/jensimmons/cssremedy
+    * Andy Bell https://piccalil.li/blog/a-more-modern-css-reset/
+    * Josh W Comeau https://www.joshwcomeau.com/css/custom-css-reset/
+
+    LICENSE: Public Domain
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+*:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    line-height: 1.5;
+    line-sizing: normal;
+
+    /* 
+        Fixes safari's text-sizing issue https://www.farai.xyz/codelab/blog/strange-safari-codeblocks/ 
+    */
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+/*
+    Add smooth scrolling unless a user wants reduced motion
+*/
+@media (prefers-reduced-motion: no-preference) {
+    html:focus-within {
+        scroll-behavior: smooth;
+    }
+}
+
+/*
+    Adds some margin when yous scroll to an element
+*/
+:target {
+    scroll-margin-block: 5ex;
+}
+
+body {
+    margin: 0 auto;
+}
+
+/*
+    Typography helpers
+*/
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.25;
+}
+
+/*
+    Prevent overflowing text
+*/
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+caption, figcaption, label, legend {
+    line-height: 1.375;
+}
+
+/*
+    Following two rules are to help with images
+*/
+
+img, svg, video, canvas, audio, iframe, embed, object {
+    display: block;
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+img, svg, video, canvas {
+    height: auto;
+}
+
+/*
+    Prevents weird behavior with font elements: https://im.farai.xyz/codelab/blog/16px-inputs/
+*/
+input, button, textarea, select {
+    font: inherit;
+}
+
+/*
+    Things to do with audio elements
+*/
+
+audio {
+    width: 100%;
+}
+
+audio:not([controls]) {
+    display: none;
+}
+
+/*
+    Learnt this the hard way: https://meowni.ca/hidden.is.a.lie.html
+*/
+[hidden] {
+    display: none !important;
+}
+

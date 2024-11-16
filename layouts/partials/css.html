@@ -1,0 +1,4 @@
+{{- $reset := resources.Get "css/reset.css" -}}
+{{- $main := resources.Get "css/main.css" -}}
+{{- $mainCSS := resources.Concat "/css/main.css" (slice $reset $main) | resources.Fingerprint "md5" -}}
+<link rel="stylesheet" href="{{ $mainCSS.RelPermalink }}">
