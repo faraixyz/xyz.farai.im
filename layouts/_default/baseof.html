@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default `en` }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ cond .IsHome "" (print .Title " | ") }}{{ site.Title }}</title>
+    {{ hugo.Generator }}
+    <link rel="canonical" href="{{ .Permalink }}">
+</head>
+<body>
+    <main id="main" tabindex="-1">
+    {{ block "main" . }}
+
+    {{ end }}
+    </main>
+</body>
+</html>
