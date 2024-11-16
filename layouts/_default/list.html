@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div>
+    <div>
+        <h1>{{ markdownify .LinkTitle }}</h1>
+        {{ if or .Description .Pqrams.fancyDescription -}}
+        <p>{{ with .Params.fancyDescription -}}{{ markdownify . }}{{ else }}{{ . }}{{ end }}</p>
+        {{- end }}
+    </div>
+</div>
+{{ end }}
