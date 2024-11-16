@@ -25,7 +25,3 @@ Except for the tag name, these shortcodes are the exact same. I'm wondering if I
 {{< highlight go-html-template >}}
 {{< showFile path="/layouts/shortcodes/figcaption.html" >}}
 {{< /highlight >}}
-
-## TODO
-
-* Allow for non-closing shortcodes. Main blocker is [there doesn't seem to be a way to detect if a shortcode is a block](https://discourse.gohugo.io/t/how-to-check-if-inner-is-empty/28639) or not.
