@@ -10,6 +10,9 @@
         <link rel="me" href="{{ .url }}" title="{{ .title }}">
     {{ end }}
     {{- partialCached "css.html" . }}
+    {{ with site.Home.OutputFormats.Get "RSS" -}}
+    <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}'s RSS Feed">
+    {{- end }}
 </head>
 <body>
     <main id="main" tabindex="-1">
@@ -17,5 +20,8 @@
 
     {{ end }}
     </main>
+    <footer>
+        <p><a href="/feed.rss.xml">Read via RSS</a></p>
+    </footer>
 </body>
 </html>

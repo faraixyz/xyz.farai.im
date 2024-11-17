@@ -1,0 +1,31 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        {{ with .OutputFormats.Get "RSS" -}}
+        <atom:link href="{{ .Permalink }}" rel="self" type="{{ .MediaType | html }}" />
+        {{ end -}}
+        <title>{{ cond .IsHome "" (print .Title " on ") }}{{ site.Title }}'s RSS Feed</title>
+        <description>{{ site.Params.Description }}</description>
+        <link>{{ site.BaseURL }}</link>
+        <language>{{ site.LanguageCode | default "en" }}</language>
+        <copyright>©{{ now.Year }} {{ site.Params.author.name }}. {{ site.Copyright }}</copyright>
+        <generator>Hugo {{ cond hugo.IsExtended "Extended " "" }}{{ hugo.Version }}--gohugo.io</generator>
+        <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | html }}</lastBuildDate>
+        <webMaster>{{ site.Params.author.email }} ({{ site.Params.author.name }})</webMaster>
+        {{- $pages := where site.RegularPages "PublishDate.IsZero" false -}}
+        {{- $pages = $pages | union (where site.RegularPages ".Params.pubups" true) -}}
+        {{ range first 20 $pages }}
+        <item>
+            {{ with .Title -}}
+            <title>{{ . }}</title>
+            {{- end }}
+            <link>{{ .Permalink }}</link>
+            <guid>{{ .Permalink }}</guid>
+            <pubDate>{{ (cond .PublishDate.IsZero .Lastmod .PublishDate).Format "Mon, 02 Jan 2006 15:04:05 -0700" | html }}</pubDate>
+            <description>
+                {{ printf "<![CDATA[%s]]>" (partial "feed-post.html" .) | safeHTML }}
+            </description>
+        </item>
+        {{- end }}
+    </channel>
+</rss>
