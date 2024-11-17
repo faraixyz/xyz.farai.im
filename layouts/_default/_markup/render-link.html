@@ -18,7 +18,11 @@
       {{- $href = printf "%s#%s" $href . -}}
     {{- end -}}
   {{- else -}}
-    {{- warnf "Link %s referenced in %s not found." $.Destination $.PageInner.File.Filename -}}
+    {{- if $.PageInner.File -}}
+      {{- warnf "Link %s referenced in %s not found." $.Destination $.PageInner.File.Filename -}}
+    {{- else -}}
+      {{- warnf "Link %s not found." $.Destination -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 {{- $attributes := dict "href" $href -}}
