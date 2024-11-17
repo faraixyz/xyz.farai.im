@@ -3,6 +3,11 @@ html {
     line-height: 1.5;
 }
 
+body {
+    max-width: 80ch;
+    margin-inline: auto;
+}
+
 .highlight {
     overflow-x: auto;
     background-color: #272822;
