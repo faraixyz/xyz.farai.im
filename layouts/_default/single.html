@@ -8,15 +8,6 @@
             {{ markdownify .LinkTitle }}
         </h1>
         <p>
-        {{ if .Params.link -}}
-            {{ $linkObj := urls.Parse .Params.link -}}
-            {{- $attr := or .Params.attr $linkObj.Host -}}
-            <p>
-                <i>
-                    <a href="{{ .Params.link }}">See <span class="visually-hidden">{{ or .Params.linkedtitle .Title }}</span> on {{ $attr }}</a>
-                </i>
-            </p>
-        {{- end }}
         {{ with .PublishDate -}}
             <span>
                 <b>Published:</b>
@@ -34,6 +25,15 @@
         </p>
     </header>
     <div>
+        {{ if .Params.link -}}
+        {{ $linkObj := urls.Parse .Params.link -}}
+        {{- $attr := or .Params.attr $linkObj.Host -}}
+        <p>
+            <i>
+                <a href="{{ .Params.link }}">See <span class="visually-hidden">{{ or .Params.linkedtitle .Title }}</span> on {{ $attr }}</a>
+            </i>
+        </p>
+        {{- end }}
         {{ .Content }}
     </div>
 </article>
