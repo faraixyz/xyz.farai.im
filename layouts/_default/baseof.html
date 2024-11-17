@@ -21,7 +21,12 @@
     {{ end }}
     </main>
     <footer>
-        <p><a href="/feed.rss.xml">Read via RSS</a></p>
+        <p>
+            {{ markdownify site.Params.footerText }}
+        </p>
+        <p>
+            <small>&copy;{{ now.Year }} {{ site.Title }}. {{ site.Copyright }}</small>
+        </p>
     </footer>
 </body>
 </html>

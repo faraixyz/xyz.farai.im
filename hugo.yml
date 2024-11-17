@@ -1,5 +1,6 @@
 title: Farai
 languageCode: en-zw
+copyright: All rights reserved. Plz don't steal.
 baseURL: https://im.farai.xyz/
 disableKinds: [robotstxt, sitemap, taxonomy, term, section]
 taxonomies:
@@ -9,6 +10,7 @@ taxonomies:
 
 params:
   description: The personal website belonging to the man known as Farai
+  footerText: Created with 🤷🏾‍♂️ by [Farai](/content/_index.md) using [Hugo](https://gohugo.io/) and [other great tools](/content/bikeshed/colophon.md). [Read via RSS](/feed.rss.xml)
   author:
     name: Farai
     email: gandiyafarai@gmail.com
