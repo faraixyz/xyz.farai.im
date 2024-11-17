@@ -3,6 +3,7 @@ title: How To Clean Files From A Specific Drive From Windows Recycle Bin
 description: Try the Clean-RecycleBin command.
 publishdate: 2024-10-21T05:15:26+02:00
 tech: [windows]
+tags: [snippets]
 draft: false
 ---
 
