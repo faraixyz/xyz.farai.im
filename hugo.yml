@@ -23,6 +23,8 @@ params:
         title: YouTube @faraixyz
       - url: https://github.com/faraixyz
         title: GitHub @faraixyz
+      - url: https://letterboxd.com/faraixyz/
+        title: Letterboxd @faraixyz
 
 taxonomies:
   tag: tags
