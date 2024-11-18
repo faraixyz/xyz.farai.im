@@ -1,7 +1,7 @@
 ---
 title: Apple, You Know That Tino's...
 description: My mom shared one of those Apple Moments featuring my brother Tino over the years. Nice gesture, there's one big problem...
-tags: [apple, meta, april-cools]
+tags: [apple, my-life, april-cools]
 publishdate: 2024-04-01T06:00:00+02:00
 lastmod: 2024-09-17T20:05:21+02:00
 draft: false
