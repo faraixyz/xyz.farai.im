@@ -1,0 +1,914 @@
+﻿#,Year,Sport,Name of Athlete,Event,Country Represented,What She Would Have Won,Links
+1,2024,Cycling,Sarah Flamm,"Tucson Bicycle Classic, Oro Valley Circuit Race, Women's Cat 3",USA,First Place,[1]
+2,2024,Cycling,Annie Gilbert,"Tucson Bicycle Classic, Oro Valley Circuit Race, Women's Cat 3",USA,Second Place,[1]
+3,2024,Cycling,Katja Verkerk,"Tucson Bicycle Classic, Oro Valley Circuit Race, Women's Cat 3",Canada,Third Place,[1]
+4,2024,Golf,Maria Bohorquez,"NXXT Women's Classic, Mission Inn Resort and Club, Florida, NXXT Women's Golf Tour Rankings, 17 January",Colombia,First Place (and likely Epson tour card),[1]
+5,2024,Golf,Lauren Miller,"NXXT Women's Classic, Mission Inn Resort and Club, Florida, NXXT Women's Golf Tour Rankings, 17 January",USA,Second Place,[1]
+6,2024,Golf,Yue Zhang,"NXXT Women's Classic, Mission Inn Resort and Club, Florida, NXXT Women's Golf Tour Rankings, 17 January",China,Third Place,[1]
+7,2024,Nordic Skiing,Rowan Tanguay,"Maine Principals Association Class C Girls’ Nordic Skiing State Championship, Five-kilometer Girls’ Classical, Farmington, ME, 19-20 February",USA,Third Place,"[1],[2]"
+8,2024,Nordic Skiing,Ruth White,"Maine Principals Association Class C Girls’ Nordic Skiing State Championship, Freestyle, Farmington, ME, 19-20 February",USA,Third Place,"[1],[2]"
+9,2024,Nordic Skiing,Ruth White,"Maine Principals Association Class C Girls’ Nordic Skiing State Championship, Pursuit, Farmington, ME, 19-20 February",USA,Third Place,"[1],[2]"
+10,2024,Track and Field,Savanna Corneau,"NHIAA Indoor Div 2 State Championship, High Jump, NH, 11 February",USA,"First Place, Gold","[1],[2]"
+11,2024,Track and Field,Amelia Lefebvre,"NHIAA Indoor Div 2 State Championship, High Jump, NH, 11 February",USA,Second Place,"[1],[2]"
+12,2024,Track and Field,Eshaya Lauder,"NHIAA Indoor Div 2 State Championship, High Jump, NH, 11 February",USA,Third Place,"[1],[2]"
+13,2023,Boxing,Katia Bissonnette,Provincial Golden Glove Championship,Canada,Withdrew in protest,[1]
+14,2023,Croquet,Rachel Gee,"Women's Golf Croquet World Championship, Sussex County Croquet Club, 14 August",England,World Champion,[1]
+15,2023,Cross Country,Laia Montoya,"13th La Cursa de NaDalt, Women's Category, Sant Pere de Torello, Catalonia, Spain, 26 December",Spain,First Place,[1]
+16,2023,Cycling,Jennifer Darmody,"Randall's Island Crit, Cycling, Women's, New York City, 18 March",USA,First Place,
+17,2023,Cycling,Mary Farner,"Randall's Island Crit, Cycling, Women's, New York City, 18 March",USA,Second Place,
+18,2023,Cycling,Yareim Gutierrez,"Activa Mexico Cycling Series, Fecha 6/Pro 1 Womens, Autodromo Hermanos Rodriguez, Mexico City, Mexico, 8 July",Mexico,First Place,[1]
+19,2023,Cycling,Dany Irais Marroquino,"Activa Mexico Cycling Series, Fecha 6/Pro 1 Womens, Autodromo Hermanos Rodriguez, Mexico City, Mexico, 8 July",Mexico,Second Place,[1]
+20,2023,Cycling,Kala Garcia Arrache,"Activa Mexico Cycling Series, Fecha 6/Pro 1 Womens, Autodromo Hermanos Rodriguez, Mexico City, Mexico, 8 July",Mexico,Third Place,[1]
+21,2023,Cycling,Lucy Scoville,1/2/3 Women’s Northwest Elimination Champion at the Jerry Baker Velodrome,USA,First Place,[1]
+22,2023,Cycling,Lucy Dorer,1/2/3 Women’s Northwest Elimination Champion at the Jerry Baker Velodrome,USA,Second Place,[1]
+23,2023,Cycling,Dany Morshed,Zuricrit Women’s Fixed Gear Racing Final,Switzerland,First Place,[1]
+24,2023,Cycling,Selina Burch,Zuricrit Women’s Fixed Gear Racing Final,Switzerland,Second Place,[1]
+25,2023,Cycling,Michelle de Graaf,Zuricrit Women’s Fixed Gear Racing Final,Switzerland,Third Place,[1]
+26,2023,Cycling,Hillary Allen,"TransAtlanticWay Cross Country Cycling Challenge, Ireland, 8-16 June",Ireland,First Place,[1]
+27,2023,Cycling,Kristin Chalmers,"Illinois State Cyclocross Championships, Women SingleSpeed, Montrose Beach, IL, 3 December",USA,"First Place, Gold Medal","[1],[2]"
+28,2023,Cycling,Allison Zmuda,"Illinois State Cyclocross Championships, Women SingleSpeed, Montrose Beach, IL, 3 December",USA,"Second Place, Silver Medal","[1],[2]"
+29,2023,Cycling,Kelly O'brien,"Illinois State Cyclocross Championships, Women SingleSpeed, Montrose Beach, IL, 3 December",USA,"Third Place, Bronze Medal","[1],[2]"
+30,2023,Cycling,Lilliana O’Donnell,"Verge Northampton Cyclocross, Cyclocross Women’s Elite, Day 2, Northampton, Massachusetts, 15 November",USA,First Place,"[1],[2]"
+31,2023,Cycling,Jennifer Malik,"USA Cycling Cyclocross National Championships, Womens Singlespeed, Louisville, KY, 8 December",USA,First Place,[1]
+32,2023,Cycling,Taylor Snider,"USA Cycling Cyclocross National Championships, Womens Singlespeed, Louisville, KY, 8 December",USA,Second Place,[1]
+33,2023,Cycling,Caitlin Neuman,"USA Cycling Cyclocross National Championships, Womens Singlespeed, Louisville, KY, 8 December",USA,Third Place,[1]
+34,2023,Cycling,Kristen Chalmers,"Montrose Beach CX - CCC #8, Women's Singlespeed, Chicago, IL, 3 December",USA,First Place,[1]
+35,2023,Cycling,Allison Zmuda,"Montrose Beach CX - CCC #8, Women's Singlespeed, Chicago, IL, 3 December",USA,Second Place,[1]
+36,2023,Cycling,Kelly O'Brien,"Montrose Beach CX - CCC #8, Women's Singlespeed, Chicago, IL, 3 December",USA,Third Place,[1]
+37,2023,Cycling,Fran Bromley,"TransAtlanticWay Cross Country Cycling Challenge, Ireland, 8-16 June",UK,Second Place,[1]
+38,2023,Cycling,Kirsten Cluley,"TransAtlanticWay Cross Country Cycling Challenge, Ireland, 8-16 June",Scotland,Third Place,[1]
+39,2023,Dance (Irish),Carolyn Marshall,"Southern Region Oireachtas, Girls Solo Under 14, Dallas, Texas, 203 December",USA,First Place,[1]
+40,2023,Dance (Irish),Scarlett Bireley,"Southern Region Oireachtas, Girls Solo Under 14, Dallas, Texas, 203 December",USA,Second Place,[1]
+41,2023,Dance (Irish),Mary Porter,"Southern Region Oireachtas, Girls Solo Under 14, Dallas, Texas, 203 December",USA,Third Place,[1]
+42,2023,Dance (Irish),Sophia Chapman,"Southern Region Oireachtas, Girls Solo Under 14, Dallas, Texas, 203 December",USA,Would have World Qualified (WQ),[1]
+43,2023,Dance (Irish),Kaycee Kenyon,"Southern Region Oireachtas, Girls Solo Under 14, Dallas, Texas, 203 December",USA,Would have National Qualified (NQ),[1]
+44,2023,Disc Golf,Morgan Lynds,"Throw Down the Mountain, Disc Golf Championships, FPO Women's Pro Open, Brooksville, Florida, 31 March-2 April",USA,First Place,
+45,2023,Disc Golf,Jordan Lynds,"Throw Down the Mountain, Disc Golf Championships, FPO Women's Pro Open, Brooksville, Florida, 31 March-2 April",USA,Second Place,
+46,2023,Disc Golf,Ellen Widboom,"Throw Down the Mountain, Disc Golf Championships, FPO Women's Pro Open, Brooksville, Florida, 31 March-2 April",USA,Third Place,
+47,2023,Disc Golf,Debbie Yoo,"Prodigy Lake Marshall Open, Disc Golf, FPO Women’s Pro Open, Montross, VA, 19-21 May",USA,First Place,[1]
+48,2023,Disc Golf,Kaitlyn Clay,"Prodigy Lake Marshall Open, Disc Golf, FPO Women’s Pro Open, Montross, VA, 19-21 May",USA,Second Place,[1]
+49,2023,Disc Golf,Keerti Goorah,"Prodigy Lake Marshall Open, Disc Golf, FPO Women’s Pro Open, Montross, VA, 19-21 May",USA,Third Place,[1]
+50,2023,Disc Golf,Emma Arp,"Discmania’s 303 Open, FPO Women’s Pro Open, Federal Heights, Colorado, 5-7 May",USA,First Place,
+51,2023,Disc Golf,Emily Yale,"Discmania’s 303 Open, FPO Women’s Pro Open, Federal Heights, Colorado, 5-7 May",USA,Second Place,
+52,2023,Disc Golf,Deann Carey,"Discmania’s 303 Open, FPO Women’s Pro Open, Federal Heights, Colorado, 5-7 May",USA,Third Place,
+53,2023,Disc Golf,Karen Sattler,"2023 PDGA Professional Masters Disc Golf World Championships, Women's Pro 55+ Division, Flagstaff, Arizona, 11-15 July 2023",USA,First Place,
+54,2023,Disc Golf,Lydie Hellgren,"2023 PDGA Professional Masters Disc Golf World Championships, Women's Pro 55+ Division, Flagstaff, Arizona, 11-15 July 2023",Norway,Second Place,
+55,2023,Disc Golf,Karin Falcone,"2023 PDGA Professional Masters Disc Golf World Championships, Women's Pro 55+ Division, Flagstaff, Arizona, 11-15 July 2023",USA,Third Place,
+56,2023,Disc Golf,Victoria Earling,"2023 Liberty Gold (DGPT KC Wide Open Qualifying Event), FPO Women's Pro Open, Liberty, MO, 8 April",USA,First Place,[1]
+57,2023,Disc Golf,Rachel Price,"2023 Liberty Gold (DGPT KC Wide Open Qualifying Event), FPO Women's Pro Open, Liberty, MO, 8 April",USA,Second Place,[1]
+58,2023,Disc Golf,Danielle Long-Calentine,"2023 Liberty Gold (DGPT KC Wide Open Qualifying Event), FPO Women's Pro Open, Liberty, MO, 8 April",USA,Third Place,[1]
+59,2023,Disc Golf,Kimberly Giannola,"Rosedale Cup 2023 Presented by Dynamic Discs KC and KCDG - Pro, MA1, FA1, FPO Womens Pro Open, Kansas City, KS, 12 March",USA,First Place,[1]
+60,2023,Disc Golf,Danielle Long-Calentine,"Rosedale Cup 2023 Presented by Dynamic Discs KC and KCDG - Pro, MA1, FA1, FPO Womens Pro Open, Kansas City, KS, 12 March",USA,Second Place,[1]
+61,2023,Disc Golf,Jennifer Morgan,"PDGA Professional Masters Disc Golf World Championships, Women's Pro 50+ FP50, Flagstaff, AZ, 11-15 July",USA,Second Place,[1]
+62,2023,Disc Golf,Kristiina Sylman,"PDGA Professional Masters Disc Golf World Championships, Women's Pro 50+ FP50, Flagstaff, AZ, 11-15 July",Finland,Third Place,[1]
+63,2023,Disc Golf,"Amy Campbell, USA","2023 PDGA Professional Masters Disc Golf World Championships, FP50 · Pro Masters Women 50+",USA,Third Place,[1]
+64,2023,Fencing,Marja-Liisa Someroja,"2023 FIE Veteran Fencing World Championships, Gold and 2023 Veteran World Champion, Vet-70 Women’s Epee, Daytona Beach, FL, 11-16 October",USA,Gold Medal and World Champion,"[1],[2],[3]"
+65,2023,Golf,Danni Vasquez,"Australian Women's Classic Golf Tournament, Bonville Golf Resort, Bonville, Australia, 31 March-2 April",Australia,First Place,
+66,2023,Golf,Stephanie Bunque,"Australian Women's Classic Golf Tournament, Bonville Golf Resort, Bonville, Australia, 31 March-2 April",Australia,Second Place,
+67,2023,Golf,Belinda Ji and Momoka Kobori,"Australian Women's Classic Golf Tournament, Bonville Golf Resort, Bonville, Australia, 31 March-2 April",Australia,Third Place (Tie),
+68,2023,Mountain Biking,Khulan Tumen,"Capital Enduro Mountain Bike Race, Women's, Wellington, New Zealand, 12 February",New Zealand,First Place,
+69,2023,Mountain Biking,Xanthe Robb,"Capital Enduro Mountain Bike Race, Women's, Wellington, New Zealand, 12 February",New Zealand,Second Place,
+70,2023,Mountain Biking,Lara Comeskey,"Capital Enduro Mountain Bike Race, Women's, Wellington, New Zealand, 12 February",New Zealand,Third Place,
+71,2023,Mountain Biking,Poppy Croucher,"Gravity Enduro Mountain Bike Race, Women's, Rotorua, New Zealand, 4-5 March",New Zealand,First Place,
+72,2023,Mountain Biking,Emma Hickson,"Gravity Enduro Mountain Bike Race, Women's, Rotorua, New Zealand, 4-5 March",New Zealand,Second Place,
+73,2023,Mountain Biking,Kate Hastings,"Gravity Enduro Mountain Bike Race, Women's, Rotorua, New Zealand, 4-5 March",New Zealand,Third Place,
+74,2023,Mountain Biking,Emma Maarenen,"Sea Otter Classic, Downhill Mountain Bike, Women's Gravel Race, La Gravilla, Salina, California, 21 April",USA,Third Place,
+75,2023,Mountain Biking,Jorja Bond,"CSU Cobb Lake Oval Criterium, Mountain Biking, Women's SW 3/Collegiate Women B, Fort Collins, Colorado, 23 April",USA,First Place,
+76,2023,Mountain Biking,Anna Rischitelli,"CSU Cobb Lake Oval Criterium, Mountain Biking, Women's SW 3/Collegiate Women B, Fort Collins, Colorado, 23 April",USA,Second Place,
+77,2023,Mountain Biking,Gwen Jorgensen,"CSU Cobb Lake Oval Criterium, Mountain Biking, Women's SW 3/Collegiate Women B, Fort Collins, Colorado, 23 April",USA,Third Place,
+78,2023,Mountain Biking,Nadia Gontova,"Tour of the Gila, Mountain Biking, Women's WE 2.2, Stage 1, Silver City to Mogollon, New Mexico, 26 April",Canada,Second Place,
+79,2023,Mountain Biking,Ashley Frye,"Tour of the Gila, Mountain Biking, Women's WE 2.2, Stage 1, Silver City to Mogollon, New Mexico, 26 April",USA,Third Place,
+80,2023,Mountain Biking,Paige Onweller,"Tour of the Gila, Mountain Biking, Women's WE 2.2, Stage 3, Tyrone to Tyrone, New Mexico, 28 April",USA,Third Place,
+81,2023,Mountain Biking,Marcela Prieto,"Tour of the Gila, Mountain Biking, Women's WE 2.2, Stage 5, Silver City to Pinos Altos, New Mexico, 30 April",Mexico,First Place,
+82,2023,Mountain Biking,Cassandra Nelson,"Tour of the Gila, Mountain Biking, Women's WE 2.2, Stage 5, Silver City to Pinos Altos, New Mexico, 30 April",USA,Second Place,
+83,2023,Mountain Biking,Emily Ehrlich,"Tour of the Gila, Mountain Biking, Women's WE 2.2, Stage 5, Silver City to Pinos Altos, New Mexico, 30 April",USA,Third Place,
+84,2023,Mountain Biking,Marcela Prieto,"Overall GC Women's, Tour of the Gila, Mountain Biking, WE 2.2, Silver City, New Mexico, 26-30 April",Mexico,First Place,
+85,2023,Mountain Biking,Emily Ehrlich,"Overall GC Women's, Tour of the Gila, Mountain Biking, WE 2.2, Silver City, New Mexico, 26-30 April",USA,Second Place,
+86,2023,Mountain Biking,Maeghan Easler,"Overall GC Women's, Tour of the Gila, Mountain Biking, WE 2.2, Silver City, New Mexico, 26-30 April",USA,Third Place,
+87,2023,Mountain Biking,Ailish Graham,"Dirty River at Kielder Forest, Mountain Biking, Overall Women's Ranking, Kielder Forest, UK, 22 April",UK,First Place,
+88,2023,Mountain Biking,Clare Parkin,"Dirty River at Kielder Forest, Mountain Biking, Overall Women's Ranking, Kielder Forest, UK, 22 April",UK,Second Place,
+89,2023,Mountain Biking,Hayley Kuter,"Dirty River at Kielder Forest, Mountain Biking, Overall Women's Ranking, Kielder Forest, UK, 22 April",UK,Third Place,
+90,2023,Mountain Biking,Maya Brothers,"Emrick Blvd Crit, Mountain Biking, Women's P/B QCW, Bethlehem, Pennsylvania, 7 May",USA,First Place,
+91,2023,Mountain Biking,Jacquelin Paull,"Emrick Blvd Crit, Mountain Biking, Women's P/B QCW, Bethlehem, Pennsylvania, 7 May",USA,Second Place,
+92,2023,Mountain Biking,Genesis Jimenez,"Emrick Blvd Crit, Mountain Biking, Women's P/B QCW, Bethlehem, Pennsylvania, 7 May",USA,Third Place,
+93,2023,Mountain Biking,Lindsey Kriete,"CO2UT Desert Gravel Mountain Bike Race, Women's 40-49, Fruita, Utah, 14 May",USA,First Place,
+94,2023,Mountain Biking,Michelle Van Sickle,"CO2UT Desert Gravel Mountain Bike Race, Women's 40-49, Fruita, Utah, 14 May",USA,Second Place,
+95,2023,Mountain Biking,Veronika Hewitt,"CO2UT Desert Gravel Mountain Bike Race, Women's 40-49, Fruita, Utah, 14 May",USA,Third Place,
+96,2023,Poker,Dayanna Ciabaton,"World Series of Poker, Seminole Hard Rock Poker Showdown, Ladies' Event, Seminole, Florida, 30 April",USA,First Place,
+97,2023,Poker,Abby Merk,"World Series of Poker, Seminole Hard Rock Poker Showdown, Ladies' Event, Seminole, Florida, 30 April",USA,Second Place,
+98,2023,Poker,Joy Benn,"World Series of Poker, Seminole Hard Rock Poker Showdown, Ladies' Event, Seminole, Florida, 30 April",USA,Third Place,
+99,2023,Pool (English),Lynne Pinches,"English Pool Association 2023 Champion of Champions Ladies Winner, Wales, 11 November 2023",Wales,Withdrew in protest,"[1],[2],[3]"
+100,2023,Powerlifting,Aileen Bishop,"Canadian Powerlifting Union (CPU) Nationals, Women Raw 185+ Open, Richmond, BC, Canada, 13 February",Canada,Third Place,[1]
+101,2023,Powerlifting,April Hutchinson,"Canadian Powerlifting Union (CPU) Nationals, Women Raw 185+ Open, Richmond, BC, Canada, 13 February",Canada,Podium; Withdrew Due to Conscientious Objection to Competing with Males,[1]
+102,2023,Skiing,Carlie Chandler,"California-Nevada Interscholastic Ski & Snowboard Federation High School State Championships, Women's Slalom, Truckee, CA, 6 March",USA,First Place,[1]
+103,2023,Skiing,Greta Aronowitz,"California-Nevada Interscholastic Ski & Snowboard Federation High School State Championships, Women's Slalom, Truckee, CA, 6 March",USA,Second Place,[1]
+104,2023,Skiing,Lauren Sandberg,"California-Nevada Interscholastic Ski & Snowboard Federation High School State Championships, Women's Slalom, Truckee, CA, 6 March",USA,Third Place,[1]
+105,2023,Snooker and Billiards,Mary Talbot-Deegan,2023 Inter County Logistics English Women's Snooker Championship,England,First Place,[1]
+106,2023,Track and Field,Angie Morrison,"Athletics Ontario, Winter Mini Meet 1, Toronto Track and Field Center, Women's 45-49, 3000 meters, Masters, Toronto, Canada, 8 January",Canada,First Place,
+107,2023,Track and Field,Catherine Weber,"12th Canadian Masters Athletics Indoor Championships, Toronto Track and Field Center, Women's 50-54, 1500 meters, Toronto, Canada, 25-26 February",Canada,First Place,
+108,2023,Track and Field,Ariel Piper,"Nice Cote D'Azur Athletisme (NCAA) Interclubs Open, 200 meters/TCF Female, Nice, France, 7 May",France,First Place,
+109,2023,Track and Field,Maureen Mueller,"Nice Cote D'Azur Athletisme (NCAA) Interclubs Open, 200 meters/TCF Female, Nice, France, 7 May",Germany,Second Place,
+110,2023,Track and Field,Yousra Madi,"Nice Cote D'Azur Athletisme (NCAA) Interclubs Open, 200 meters/TCF Female, Nice, France, 7 May",France,Third Place,
+111,2023,Track and Field,Elllie Buckley,"CIF-North Coast Section Meet of Champions, High School Women's 1600 meters, Dublin, California, 20 May",USA,Second Place,
+112,2023,Track and Field,Adeline Johnson,"CIF-North Coast Section Meet of Champions, High School Women's 1600 meters, Dublin, California, 20 May",USA,Third Place; would have advanced to State Championships,
+113,2023,Track and Field,Cristina Sanulli,"Campionati Italiani Master Indoor Athletics, F50 Women's 200 meters, Ancona, Italy, 12 March",Italy,First Place,
+114,2023,Track and Field,Denise Neumann,"Campionati Italiani Master Indoor Athletics, F50 Women's 200 meters, Ancona, Italy, 12 March",Italy,Second Place,
+115,2023,Track and Field,Agnese Claudia Rossi,"Campionati Italiani Master Indoor Athletics, F50 Women's 200 meters, Ancona, Italy, 12 March",Italy,Third Place,
+116,2023,Track and Field,Kaitlin O'Shea,"2023 Wilderness League Championships, New Hampshire High School State Wide, Girls 1600 meter run, Belmont, NH, 20 May",USA,First Place,
+117,2023,Track and Field,Adah Chapman,"2023 Wilderness League Championships, New Hampshire High School State Wide, Girls 1600 meter run, Belmont, NH, 20 May",USA,Second Place,
+118,2023,Track and Field,Emma Schaumloffel,"2023 Wilderness League Championships, New Hampshire High School State Wide, Girls 1600 meter run, Belmont, NH, 20 May",USA,Third Place,
+119,2023,Track and Field,Gretchen Reynolds,"2023 Wilderness League Championships, New Hampshire High School State Wide, Girls High Jump, Belmont, NH, 20 May 2023",USA,First Place,
+120,2023,Track and Field,Anelie Flynn,"2023 Wilderness League Championships, New Hampshire High School State Wide, Girls High Jump, Belmont, NH, 20 May 2023",USA,Second Place,
+121,2023,Track and Field,Jordyn Carroll,"2023 Wilderness League Championships, New Hampshire High School State Wide, Girls High Jump, Belmont, NH, 20 May 2023",USA,Third Place,
+122,2023,Track and Field,Brynn Mooney,"Nazareth Alumni Opener 2024, Womens 300 Meter Dash Finals, Rochester, NY 8 December",USA,First Place,"[1],[2],[3]"
+123,2023,Track and Field,Victoria Brewster,"Nazareth Alumni Opener 2024, Womens 300 Meter Dash Finals, Rochester, NY 8 December",USA,Second Place,"[1],[2],[3]"
+124,2023,Track and Field,Kayla Huba,"Nazareth Alumni Opener 2024, Womens 300 Meter Dash Finals, Rochester, NY 8 December",USA,Third Place,"[1],[2],[3]"
+125,2023,Track and Field,Ariel Piper,"Women's 200 Metre Race, Nice, France, 7 May",France,First Place,[1]
+126,2023,Track and Field,Grace Alexander,"Regional high school cross country championship, Maine, Cross Country, Class C, Cumberland, Maine, 21 October",USA,First Place,[1]
+127,2023,Track and Field,Haley Williams,"Regional high school cross country championship, Maine, Cross Country, Class C, Cumberland, Maine, 21 October",USA,Second Place,[1]
+128,2023,Track and Field,Laia Montoya,"La Cursa de NaDalt (a chrono-climbing race), Catalonia, Spain, 26 December",Spain,First Place,[1]
+129,2022,Cross Country,MacKenzie Caputo,"Seattle Academy School Record for 5000 meters Women's Cross Country, Seattle, WA",USA,Would have retained her School Record from 2017,
+130,2022,Cross Country,Kathryn Frazer,"Seattle, WA High School 1A District 2 Cross Country Championships, Women's 5000 m, South Whidbey HS, 29 Oct",USA,Second Place,
+131,2022,Cross Country,Sophia Inglin,"Seattle, WA High School 1A District 2 Cross Country Championships, Women's 5000 m, South Whidbey HS, 29 Oct",USA,Third Place,
+132,2022,Cross Country,Isla Chadsey,"Emerald Sound Conference Championship, High School Women's 5000 m Varsity, Granite Falls High School, 22 Oct",USA,First Place,
+133,2022,Cross Country,Sophia Inglin,"Emerald Sound Conference Championship, High School Women's 5000 m Varsity, Granite Falls High School, 22 Oct",USA,Second Place,
+134,2022,Cross Country,Kathryn Frazer,"Emerald Sound Conference Championship, High School Women's 5000 m Varsity, Granite Falls High School, 22 Oct",USA,Third Place,
+135,2022,Cross Country,Sophia Inglin,"Emerald League 6th Meet at Magnuson, Women's 5000 m Varsity High School, Seattle, WA, 13 Sept",USA,Second Place,
+136,2022,Cross Country,Sadie Honig,"Emerald League 6th Meet at Magnuson, Women's 5000 m Varsity High School, Seattle, WA, 13 Sept",USA,Third Place,
+137,2022,Cross Country,Madeline Harrison,"Fort Steilacoom Cross Country Invitational, 5000m Girls Silver Varsity Flight 2 High School, Ft. Steilacoom Park, Seattle, WA, 17 Sept",USA,First Place,
+138,2022,Cross Country,Margaret Champlain,"Fort Steilacoom Cross Country Invitational, 5000m Girls Silver Varsity Flight 2 High School, Ft. Steilacoom Park, Seattle, WA, 17 Sep",USA,Second Place,
+139,2022,Cross Country,Samantha Christy,"Fort Steilacoom Cross Country Invitational, 5000m Girls Silver Varsity Flight 2 High School, Ft. Steilacoom Park, Seattle, WA, 17 Sep",USA,Third Place,
+140,2022,Cross Country,Talia Wilson,"Emerald Sound Meet at Lower Woodland Park, Women's 5000 m Varsity, Lower Woodland Part, Seattle, WA 11 Oct",USA,Second Place,
+141,2022,Cross Country,Sarah Guralnick,"Emerald Sound Meet at Lower Woodland Park, Women's 5000 m Varsity, Lower Woodland Part, Seattle, WA 11 Oct",USA,Third Place,
+142,2022,Cross Country,Paula James,Canadian Women's Masters Indoor 5000m run for ages 45-49,Canada,Record holder for fastest time,
+143,2022,Cross Country,Livia Coburn,"Road2Hope, Canadian Cross-Country Championships, 8 km Masters, Hamilton Marathon, Hamilton, Canada, 22 May",Canada,Silver Medal,
+144,2022,Cross Country,Breanne Schaefer,"Road2Hope, Canadian Cross-Country Championships, 8 km Masters, Hamilton Marathon, Hamilton, Canada, 22 May",Canada,Bronze Medal,
+145,2022,Cycling,Sue Dent,"Tweedlove Enjoyro Female EBike, Tweed Green, Peebles Hydro, Tweed Valley, Scotland, 23 April",Scotland,First Place,
+146,2022,Cycling,Joanne Woolley,"Tweedlove Enjoyro Female EBike, Tweed Green, Peebles Hydro, Tweed Valley, Scotland, 23 April",Scotland,Second Place,
+147,2022,Cycling,Valerie Barr,"Tweedlove Enjoyro Female EBike, Tweed Green, Peebles Hydro, Tweed Valley, Scotland, 23 April",Scotland,Third Place,
+148,2022,Cycling,Maddy Ward,"Tour of the Gila, Wonen's Elite Cycle Race, Silver City, New Mexico, 1 May",USA,Third Place,
+149,2022,Cycling,Jane Page,"British Cycling National Downhill Series 2022 Round 2, UCI C1, Women 19+, Fort William, Inverness-shire, UK, May 7-8, 2022",UK,First Place,
+150,2022,Cycling,Sara Allan,"British Cycling National Downhill Series 2022 Round 2, UCI C1, Women 19+, Fort William, Inverness-shire, UK, May 7-8, 2022",UK,Second Place,
+151,2022,Cycling,Shona McKinnon,"British Cycling National Downhill Series 2022 Round 2, UCI C1, Women 19+, Fort William, Inverness-shire, UK, May 7-8, 2022",UK,Third Place,
+152,2022,Cycling,Clara Honsinger,"Joe Martin Stage Race, Women's Cycling, UCI 2.2, Fayetteville, Arkansas, 19-22 May",USA,Third Place,
+153,2022,Cycling,Regina Legge,"Northampton Cycling Club Hydra Cross, Women Cat 1/2/3, Holyoke, MA, 3 Sept",USA,First Place,
+154,2022,Cycling,Christin Reuter,"Northampton Cycling Club Hydra Cross, Women Cat 1/2/3, Holyoke, MA, 3 Sept",USA,Second Place,
+155,2022,Cycling,Lillliana Odonnell,"Northampton Cycling Club Hydra Cross, Women Cat 1/2/3, Holyoke, MA, 3 Sept",USA,Third Place,
+156,2022,Cycling,Ava Holmgren,"Northampton International Cyclocross Day 1, UCI Elite Women, Northampton, MA, 12 Nov",Canada,First Place,
+157,2022,Cycling,Lizzy Gunsalus,"Northampton International Cyclocross Day 1, UCI Elite Women, Northampton, MA, 12 Nov",USA,Second Place,
+158,2022,Cycling,Raylyn Nuss,"Northampton International Cyclocross Day 1, UCI Elite Women, Northampton, MA, 12 Nov",USA,Third Place,
+159,2022,Cycling,Caitline Bernstein,"Northampton International Cyclocross Day 2, UCI Elite Women, Northampton, MA, 12 Nov",USA,Third Place,
+160,2022,Cycling,Caitlin Bernstein,"Soall Viet Kitchen Beverly Cyclocross p/b Old Planters Brewing Co, Women's Elite 1/2/3, Beverly, MA, 10 Sept",USA,First Place,
+161,2022,Cycling,Regina Legge,"Soall Viet Kitchen Beverly Cyclocross p/b Old Planters Brewing Co, Women's Elite 1/2/3, Beverly, MA, 10 Sept",USA,Second Place,
+162,2022,Cycling,Greta Kilburn,"Soall Viet Kitchen Beverly Cyclocross p/b Old Planters Brewing Co, Women's Elite 1/2/3, Beverly, MA, 10 Sept",USA,Third Place,
+163,2022,Cycling,Caitlin Bernstein,"Virginia's Blue Ridge GO Cross p/b Deschutes Brewery, Women's Pro Day 1, Roanoke, VA, 17 Sept",USA,Third Place,
+164,2022,Cycling,Lizzy Gunsalus,"Virginia's Blue Ridge GO Cross p/b Deschutes Brewery, Women's Pro Day 2, Roanoke, VA, 18 Sept",USA,Third Place,
+165,2022,Cycling,Raylyn Nuss,"Rochester Cyclocross, Women's Pro, Rochester, NY, 24 Sept",USA,Third Place,
+166,2022,Cycling,Sidney McGill,"Charm City Cross, Day 2, Women's Pro, Baltimore, MD, 2 Oct",USA,Third Place,
+167,2022,Cycling,Caitlin Bernstein,"Really Rad Festival of Cyclocross Day 2, Women's Pro, Falmouth, MA, 6 Nov",USA,Third Place,
+168,2022,Cycling,Hannah Arensman,"USA Cycling Cyclocross National Championships Day 6, Women Senior Pro Cat 1/2/3, Hartford, CT, 11 Dec",USA,Third Place,
+169,2022,Cycling,Sabina Rossiello,"Vanier Park CX, Coquitlam, Intermediate Women, British Columbia, Canada, 25 Sept",Canada,First Place,
+170,2022,Cycling,Lianne Leblond,"Vanier Park CX, Coquitlam, Intermediate Women, British Columbia, Canada, 25 Sept",Canada,Second Place,
+171,2022,Cycling,Rebecca Cohen,"Vanier Park CX, Coquitlam, Intermediate Women, British Columbia, Canada, 25 Sept",Canada,Third Place,
+172,2022,Cycling,Allison Halpin,"Harvest Cyclocross Series: Washougal Cyclocross, Category 1/2 Women, Washougal, OR, 24 Sept",USA,Second Place,
+173,2022,Cycling,Rachel Geiter,"Harvest Cyclocross Series: Washougal Cyclocross, Category 1/2 Women, Washougal, OR, 24 Sept",USA,Third Place,
+174,2022,Cycling,Michal Bennett,"Cross Crusade, Cyclocross, Rainier High School, Category 1/2 Women, Rainier, OR, 9 Oct",USA,First Place,
+175,2022,Cycling,Heidi Wood,"Cross Crusade, Cyclocross, Rainier High School, Category 1/2 Women, Rainier, OR, 9 Oct",USA,Second Place,
+176,2022,Cycling,Rachel Geiter,"Cross Crusade, Cyclocross, Rainier High School, Category 1/2 Women, Rainier, OR, 9 Oct",USA,Third Place,
+177,2022,Cycling,Rachel Geiter,"Cross Crusade, Cyclocross, Heron Lakes, Category 1/2 Women, Portland, OR, 16 Oct",USA,First Place,
+178,2022,Cycling,Sophie Russenberger,"Cross Crusade, Cyclocross, Heron Lakes, Category 1/2 Women, Portland, OR, 16 Oct",USA,Second Place,
+179,2022,Cycling,Allison Halpin,"Cross Crusade, Cyclocross, Heron Lakes, Category 1/2 Women, Portland, OR, 16 Oct",USA,Third Place,
+180,2022,Cycling,Hannah Arensman,"Kings CX, Cyclocross, Day 1, Women Open Pro, Mason, OH, 22 Oct",USA,Third Place,
+181,2022,Cycling,Emily Werner,"Kings CX, Cyclocross, Day 2, Women Open Pro, Mason, OH, 23 Oct",USA,Third Place,
+182,2022,Cycling,Christina Hosenfeld,"Pan American Cyclocross Championships, Women 40-44, Falmouth, MA, 4 Nov",USA,First Place,
+183,2022,Cycling,Erin Gordon,"Pan American Cyclocross Championships, Women 40-44, Falmouth, MA, 4 Nov",USA,Second Place,
+184,2022,Cycling,Dana Prey,"Pan American Cyclocross Championships, Women 40-44, Falmouth, MA, 4 Nov",USA,Third Place,
+185,2022,Cycling,Paula Gilecheverria,"Cross Crusade, Barton Park, Category 1/2 Women, Boring, OR, 20 Nov",USA,First Place,
+186,2022,Cycling,Hannah Allen,"Cross Crusade, Barton Park, Category 1/2 Women, Boring, OR, 20 Nov",USA,Second Place,
+187,2022,Cycling,Rachel Serlsev,"Cross Crusade, Barton Park, Category 1/2 Women, Boring, OR, 20 Nov",USA,Third Place,
+188,2022,Cycling,Heidi Wood,"CXR #6 SeaTac, Cyclocross, Category 1/2 Women, SeaTac, WA, 27 Nov",USA,First Place,
+189,2022,Cycling,Brenna Wrye-Simpson,"CXR #6 SeaTac, Cyclocross, Category 1/2 Women, SeaTac, WA, 27 Nov",USA,Second Place,
+190,2022,Cycling,Rebecca Book,"CXR #6 SeaTac, Cyclocross, Category 1/2 Women, SeaTac, WA, 27 Nov",USA,Third Place,
+191,2022,Cycling,Erin Feldhausen,"USA Cycling Cyclocross National Championships, Day 3, Women Master 40-44 Category 1/2/3, Hartford, CF, 8 Dec",USA,First Place,
+192,2022,Cycling,Holly Lavesser,"USA Cycling Cyclocross National Championships, Day 3, Women Master 40-44 Category 1/2/3, Hartford, CF, 8 Dec",USA,Second Place,
+193,2022,Cycling,Anja Meichsner,"USA Cycling Cyclocross National Championships, Day 3, Women Master 40-44 Category 1/2/3, Hartford, CF, 8 Dec",USA,Third Place,
+194,2022,Cycling,Katy Brown,"Auburn Flyers Cycling Weekend, Women Pro 1-3, Auburn, AL, 26 Feb",USA,First Place,
+195,2022,Cycling,Sophie Zents,"Auburn Flyers Cycling Weekend, Women Pro 1-3, Auburn, AL, 26 Feb",USA,Second Place,
+196,2022,Cycling,Ruth Allen,"Birmingham Hammerfest, Women's Category 3-4-5, Birmingham, AL, 12 March",USA,First Place,
+197,2022,Cycling,Sophie Zents,"Birmingham Hammerfest, Women's Category 3-4-5, Birmingham, AL, 12 March",USA,Second Place,
+198,2022,Cycling,Johanna Gref,"Birmingham Hammerfest, Women's Category 3-4-5, Birmingham, AL, 12 March",USA,Third Place,
+199,2022,Cycling,Ruth Allen,"Sunny King Criterium, Cycling Race, Women Senior Cat 3-45, Anniston, AL, 9 April",USA,First Place,
+200,2022,Cycling,Sophie Zents,"Sunny King Criterium, Cycling Race, Women Senior Cat 3-45, Anniston, AL, 9 April",USA,Second Place,
+201,2022,Cycling,Dagny Palmer,"Sunny King Criterium, Cycling Race, Women Senior Cat 3-45, Anniston, AL, 9 April",USA,Third Place,
+202,2022,Cycling,Carlie Cooper,"Brooks Road Race, GA State Championship Road Race, Women Pro 1-2, Brooks, GA, 21 May",USA,First Place,
+203,2022,Cycling,Renate Walton,"UCI Masters World Championships, Cycling, TT Women Masters 70-74, Carson, CA 24 Sept-1 Oct",Canada,First Place,
+204,2022,Cycling,Louise Hose,"UCI Masters World Championships, Cycling, TT Women Masters 70-74, Carson, CA 24 Sept-1 Oct",USA,Second Place,
+205,2022,Cycling,Ariel Levin,"UCI Masters World Championships, Cycling, TT Women Masters 70-74, Carson, CA 24 Sept-1 Oct",USA,Third Place,
+206,2022,Cycling,Sharazan Martinez,"Activa Mexico DMX Cycling Series Fecha 1/Pro 1, Womens, Mexico, 23 April",Mexico,First Place,[1]
+207,2022,Cycling,Grecia Reynoso,"Activa Mexico DMX Cycling Series Fecha 1/Pro 1, Womens, Mexico, 23 April",Mexico,Second Place,[1]
+208,2022,Cycling,Ximena Calzada,"Activa Mexico DMX Cycling Series Fecha 1/Pro 1, Womens, Mexico, 23 April",Mexico,Third Place,[1]
+209,2022,Darts,Wendy Harper,"World Darts Federation, Shot New Zealand Open Women, July, New Zealand",New Zealand,First Place,
+210,2022,Darts,Shar Maru-Habib,"World Darts Federation, Shot New Zealand Open Women, July, New Zealand",New Zealand,Second Place (Semi-Finalist),
+211,2022,Darts,Nicole Regnaud,"World Darts Federation, Shot New Zealand Open Women, July, New Zealand",New Zealand,Third Place (Semi-Finalist),
+212,2022,Darts,Wendy Harper,"New Zealand Open Masters Darts Tournament, Women, Montueka, NZ, 24 July",New Zealand,Gold Medal,
+213,2022,Disc Golf,Ohn Scoggins,"Discraft Great Lakes Open, Disc Golf, Women's Division, 29-31 July, Milford, Michigan",USA,First Place (tied),
+214,2022,Disc Golf,Emily Beach,"Discraft Great Lakes Open, Disc Golf, Women's Division, 29-31 July, Milford, Michigan",USA,First Place (tied),
+215,2022,Disc Golf,Paige Pierce,"Discraft Great Lakes Open, Disc Golf, Women's Division, 29-31 July, Milford, Michigan",USA,Second Place (tied),
+216,2022,Disc Golf,Valerie Mandujano,"Discraft Great Lakes Open, Disc Golf, Women's Division, 29-31 July, Milford, Michigan",USA,Second Place (tied),
+217,2022,Disc Golf,Kristin Tattar,"Disc Golf Pro Tour, MVP Open at Maple Hill, 22-25 September, Leicester, Massachusetts",Estonia,First Place,
+218,2022,Disc Golf,Paige Pierce,"Disc Golf Pro Tour, MVP Open at Maple Hill, 22-25 September, Leicester, Massachusetts",USA,Second Place,
+219,2022,Disc Golf,Holyn Handley,"Disc Golf Pro Tour, MVP Open at Maple Hill, 22-25 September, Leicester, Massachusetts",USA,Third Place (tied),
+220,2022,Disc Golf,Deann Carey,"Disc Golf Pro Tour, MVP Open at Maple Hill, 22-25 September, Leicester, Massachusetts",USA,Third Place (tied),
+221,2022,Disc Golf,Des Reading,"Professional Disc Golf World Championships, Women's 50+ Division, Peoria, Illinois, 12-16 July",USA,First Place,
+222,2022,Disc Golf,Tamara Coburn,"Professional Disc Golf World Championships, Women's 50+ Division, Peoria, Illinois, 12-16 July",USA,Second Place,
+223,2022,Disc Golf,Katelyn Belty,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,First Place (tied),[1]
+224,2022,Disc Golf,,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,First Place (tied),[1]
+225,2022,Disc Golf,,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,Second Place,[1]
+226,2022,Disc Golf,,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,Third Place,
+227,2022,Disc Golf,Ohn Scoggins and Emily Beach,"Discraft's Great Lakes Open, Disc Golf, Women's Division, Milford, Michigan, 29-31 July",USA,First Place (Tied),
+228,2022,Disc Golf,Paige Pierce and Valerie Mandujano,"Discraft's Great Lakes Open, Disc Golf, Women's Division, Milford, Michigan, 29-31 July",USA,Second Place (Tied),
+229,2022,Disc Golf,Kristin Tattar,"MVP Open at Maple Hill, Disc Golf, Women's Division, Leicester, Massachusetts, 22-25 September",Estonia,First Place,
+230,2022,Disc Golf,Paige Pierce,"MVP Open at Maple Hill, Disc Golf, Women's Division, Leicester, Massachusetts, 22-25 September",USA,Second Place,
+231,2022,Disc Golf,Holyn Handley and Deann Carey,"MVP Open at Maple Hill, Disc Golf, Women's Division, Leicester, Massachusetts, 22-25 September",USA,Third Place (Tied),
+232,2022,Disc Golf,Kimberly Giannola,"11th Annual Iowa Masters Championships by Vicious Circle Disc Golf, FP 40 Pro Masters Women 40+, Newton, Iowa, 5 June 2022",USA,First Place,
+233,2022,Disc Golf,Kerri French,"11th Annual Iowa Masters Championships by Vicious Circle Disc Golf, FP 40 Pro Masters Women 40+, Newton, Iowa, 5 June 2022",USA,Second Place,
+234,2022,Disc Golf,Katelyn Belty,"39th Annual Kansas City Wide Open, FPO Open Women",USA,First Place,[1]
+235,2022,Disc Golf,Ali Smith,"39th Annual Kansas City Wide Open, FPO Open Women",USA,Second Place,[1]
+236,2022,Disc Golf,Kaylee Kincaid,"39th Annual Kansas City Wide Open, FPO Open Women",USA,Third Place,[1]
+237,2022,Disc Golf,Kimberly Giannola,2022 Frostbreaker SMP,USA,First Place,[1]
+238,2022,Disc Golf,"Lorena Dostal, USA","2022 PDGA Professional Masters Disc Golf World Championships, FP50 · Pro Masters Women 50+",USA,Second Place,[1]
+239,2022,Disc Golf,Tamara Coburn,"WGE Revenge on Reds, FP50 Pro Masters Women 50+, Leicester, MA, 7 August",USA,First Place,[1]
+240,2022,Disc Golf,Kimberly Giannola,"Maverick DG: Centennial Chain Crash 2022 pres by GRIPeq, FPO Open Women, Lawrence, KS, 26 November",USA,First Place,[1]
+241,2022,Disc Golf,Kimberly Giannola,"2022 Handeye Classic, FPO Open Women, Emporia, KS, 15 October",USA,First Place,[1]
+242,2022,Disc Golf,Des Reading,"2022 PDGA Masters Disc Golf World Championships, FP50 Pro Masters Women 50+, Peoria, IL, 12-16 July",USA,First Place,[1]
+243,2022,Disc Golf,Tamara Coburn,"2022 PDGA Masters Disc Golf World Championships, FP50 Pro Masters Women 50+, Peoria, IL, 12-16 July",USA,Second Place,[1]
+244,2022,Disc Golf,Millicent Cowgill,"Missouri Eagle & Elephant & Castle Fine Arms 12th Annual Jared Hilton Memorial - Driven by Innova, FPO Open Women, Lebanon, MO, 11 June",USA,First Place,[1]
+245,2022,Disc Golf,Brandy Monnahan,"Missouri Eagle & Elephant & Castle Fine Arms 12th Annual Jared Hilton Memorial - Driven by Innova, FPO Open Women, Lebanon, MO, 11 June",USA,Second Place,[1]
+246,2022,Disc Golf,Fresa Jacobs,"Missouri Eagle & Elephant & Castle Fine Arms 12th Annual Jared Hilton Memorial - Driven by Innova, FPO Open Women, Lebanon, MO, 11 June",USA,Third Place,[1]
+247,2022,Disc Golf,Kimerly Giannola,"11th Annual Iowa Masters Championships by Vicious Circle Disc Golf, FP40 Pro Masters Momen 40+, Newton, IA, 5 June",USA,First Place,[1]
+248,2022,Disc Golf,Kerri French,"11th Annual Iowa Masters Championships by Vicious Circle Disc Golf, FP40 Pro Masters Momen 40+, Newton, IA, 5 June",USA,Second Place,[1]
+249,2022,Disc Golf,Shelbi Dutton,"Off the Chain, FPO Open Women, Des Moines, IA, 4 June",USA,First Place,[1]
+250,2022,Disc Golf,Kimberly Giannola,"Off the Chain, FPO Open Women, Des Moines, IA, 4 June",USA,Second Place,[1]
+251,2022,Disc Golf,Kimberly Giannola,"Maverick DG: McLouth Disc Golf Tournament sponsored by Innova,",USA,First Place,[1]
+252,2022,Disc Golf,Deann Carey,"11th Annual Chain Hawk Open Presented by Dynamic Discs, FPO Open Women, Gainesville, FL, 2-4 December",USA,First Place,[1]
+253,2022,Disc Golf,Ellen Widboom,"11th Annual Chain Hawk Open Presented by Dynamic Discs, FPO Open Women, Gainesville, FL, 2-4 December",USA,Second Place,[1]
+254,2022,Disc Golf,Morgan Lynds,"11th Annual Chain Hawk Open Presented by Dynamic Discs, FPO Open Women, Gainesville, FL, 2-4 December",USA,Third Place,[1]
+255,2022,Disc Golf,Leah Tsinajinnie,"OTB ROAD SHOW - Monday Flex @ Perkerson Park, FPO Open Women, Atlanta, GA, 18 April",USA,Second Place,[1]
+256,2022,Disc Golf,Madison Walker,"19th Annual Fairhope Jubilee - Event 2, FPO Open Women, Fairhope, AL, 9 January",USA,Second Place,[1]
+257,2022,Disc Golf,Emelia Marshall,"19th Annual Fairhope Jubilee - Event 2, FPO Open Women, Fairhope, AL, 9 January",USA,Third Place,[1]
+258,2022,eSports,Georgia Peplow,"Commonwealth eSports Championships, eFootball Womens, Birmingham, England, 7 August",Wales,Gold Medal,[1]
+259,2022,eSports,Alia Harvey,"Commonwealth eSports Championships, eFootball Womens, Birmingham, England, 7 August",England,Silver Medal,[1]
+260,2022,Mountain Biking,Eliana Hulseboch,"Phoenix Enduro Mountain Bike, Open Women's Division, Christchurch, New Zealand, 29 October",New Zealand,First Place,
+261,2022,Mountain Biking,Jenna Hastings,"Phoenix Enduro Mountain Bike, Open Women's Division, Christchurch, New Zealand, 29 October",New Zealand,Second Place,
+262,2022,Mountain Biking,G. Swift,"Phoenix Enduro Mountain Bike, Open Women's Division, Christchurch, New Zealand, 29 October",New Zealand,Third Place,
+263,2022,Pool (English),Rachel Tucker,IPA Ladies Tour Tournament Grand Final,UK,First Place,[1]
+264,2022,Powerlifting,Aileen Bishop,"Western Canadian Powerlifting and Bench Press Championships, Women Classic 185+ Open, Calgary, Alberta, Canada, 23 September",Canada,First Place,[1]
+265,2022,Powerlifting,Ramanjot Ghuman,"Western Canadian Powerlifting and Bench Press Championships, Women Classic 185+ Open, Calgary, Alberta, Canada, 23 September",Canada,Second Place,[1]
+266,2022,Powerlifting,Linda Khounkong,"Western Canadian Powerlifting and Bench Press Championships, Women Classic 185+ Open, Calgary, Alberta, Canada, 23 September",Canada,Third Place,[1]
+267,2022,Powerlifting,Sousanh Chantalangsy,"APU Provincial Powerlifting and Bench Press Championships, Women Classic 185+ Open, Slave Lake, Alberta, Canada, 8 July",Canada,First Place,
+268,2022,Powerlifting,Maura Howden,"APU Provincial Powerlifting and Bench Press Championships, Women Classic 185+ Open, Slave Lake, Alberta, Canada, 8 July",Canada,Second Place,
+269,2022,Powerlifting,Emma Schempp,"APU Provincial Powerlifting and Bench Press Championships, Women Classic 185+ Open, Slave Lake, Alberta, Canada, 8 July",Canada,Third Place,
+270,2022,Powerlifting,Angelina Van Ryswyk,"PowerSurge XI Powerlifting, Women Classic 185+ Open, Edmonton, Alberta, Canada, 3 April",Canada,First Place,
+271,2022,Powerlifting,Zoe Good,"PowerSurge XI Powerlifting, Women Classic 185+ Open, Edmonton, Alberta, Canada, 3 April",Canada,Second Place,
+272,2022,Powerlifting,Celeste Vonidler,"PowerSurge XI Powerlifting, Women Classic 185+ Open, Edmonton, Alberta, Canada, 3 April",Canada,Third Place,
+273,2022,Rowing,Susan Kemp,"World Indoor Rowing Championships, W 70 2000 m, Hamburg, Germany, 25-26 February",Australia,Second Place,
+274,2022,Skateboarding,Sarah Heng,"Yarra Ranges Downhill Festival, Women's Skateboard, Mt. DonnaBuang, Victoria, Australia, 18-19 March",Australia,First Place,
+275,2022,Skateboarding,Jasmine Ngaparu,"Yarra Ranges Downhill Festival, Women's Skateboard, Mt. DonnaBuang, Victoria, Australia, 18-19 March",Australia,Second Place,
+276,2022,Skateboarding,Shiloh Catori,"The Boardr Open at New York City, Presented by DC, Women's Final, 25 June",USA,First Place,
+277,2022,Skateboarding,Jordan Pascale,"The Boardr Open at New York City, Presented by DC, Women's Final, 25 June",USA,Second Place,
+278,2022,Skateboarding,Chrissy Brown,"The Boardr Open at New York City, Presented by DC, Women's Final, 25 June",USA,Third Place,
+279,2022,Skateboarding,Unknown,"Slurpee Canada Skateboard Open, Digital (Instagram) Contest, Women's Park, Best Trick Swatch to the Moon Award",Unknown,"Best Trick, Swatch to the Moon Award",
+280,2022,Snooker and Billiards,Jasmine Bolsover,"English Partnership for Snooker and Billiards, 2021/2022, Women's Tour, Event Five, 29 January",England,First Place,"[1],[2]"
+281,2022,Snooker and Billiards,Chrissy Allwood,"English Partnership for Snooker and Billiards, 2021/2022, Women's Tour, Event Five, 29 January",England,Second Place (Semi-Finalist),
+282,2022,Snooker and Billiards,Chloe White,"English Partnership for Snooker and Billiards, 2021/2022, Women's Tour, Event Five, 29 January",England,Third Place (Semi-Finalist),
+283,2022,Snooker and Billiards,Anna Lynch,"World Billiards, 2022 Women's European Open, Leeds, England, 28 May",Australia,First Place,
+284,2022,Snooker and Billiards,Annette Newman,"World Billiards, 2022 Women's European Open, Leeds, England, 28 May",Ireland,Second Place (Semi-Finalist),
+285,2022,Snooker and Billiards,Rochy Woods,"World Billiards, 2022 Women's European Open, Leeds, England, 28 May",England,Third Place (Semi-Finalist),
+286,2022,Snooker and Billiards,Snenthra Babu,"World Billiards, Women's 2022 World Championship, Newbridge, Ireland, 20 August",India,First Place,
+287,2022,Snooker and Billiards,Margaret O'Driscoll,"World Billiards, Women's 2022 World Championship, Newbridge, Ireland, 20 August",Ireland,Second Place (Semi-Finalist),
+288,2022,Snooker and Billiards,Stephanie Foley,"World Billiards, Women's 2022 World Championship, Newbridge, Ireland, 20 August",Ireland,Third Place (Semi-Finalist),
+289,2022,Surfing,Emily Gibbs,"West Coast Suspensions Longboard & Logger State Championships, Open Women's Logger, Avalon Bay, Mandurah, Australia, 15 May",Australia,First Place,[1]
+290,2022,Surfing,Georgia Young,"West Coast Suspensions Longboard & Logger State Championships, Open Women's Logger, Avalon Bay, Mandurah, Australia, 15 May",Australia,Second Place,[1]
+291,2022,Surfing,Shae Sheridan,"West Coast Suspensions Longboard & Logger State Championships, Open Women's Logger, Avalon Bay, Mandurah, Australia, 15 May",Australia,Third Place,
+292,2022,Surfing,Georgia Young,"West Coast Suspensions Longboard & Logger State Championships, Women's Open, Avalon Bay, Mandurah, Australia, 15 May",Australia,First Place,[1]
+293,2022,Surfing,Samantha Vanderford,"West Coast Suspensions Longboard & Logger State Championships, Women's Open, Avalon Bay, Mandurah, Australia, 15 May",Australia,Second Place,[1]
+294,2022,Swimming,Felicia Pasadyn,"Harvard Women versus UPenn, NCAA Women's Collegiate Swimming event, Women 200 Yard Freestyle, 22 January, Blodgett Pool, Boston, MA",USA,First Place,
+295,2022,Swimming,Samantha Shelton,"Harvard Women versus UPenn, NCAA Women's Collegiate Swimming event, Women 200 Yard Freestyle, 22 January, Blodgett Pool, Boston, MA",USA,Second Place,
+296,2022,Swimming,Erin Cavanagh,"Harvard Women versus UPenn, NCAA Women's Collegiate Swimming event, Women 200 Yard Freestyle, 22 January, Blodgett Pool, Boston, MA",USA,Third Place,
+297,2022,Swimming,Samantha Shelton,"Harvard Women versus UPenn, NCAA Women's Collegiate Swimming event, Women 100 Yard Freestyle, 22 January, Blodgett Pool, Boston, MA",USA,First Place,
+298,2022,Swimming,Molly Hamlin,"Harvard Women versus UPenn, NCAA Women's Collegiate Swimming event, Women 100 Yard Freestyle, 22 January, Blodgett Pool, Boston, MA",USA,Second Place,
+299,2022,Swimming,Margot Kaczorowski,"Harvard Women versus UPenn, NCAA Women's Collegiate Swimming event, Women 100 Yard Freestyle, 22 January, Blodgett Pool, Boston, MA",USA,Third Place,
+300,2022,Swimming,Catherine Buroker,"Women's Ivy League Swimming and Diving Championships, Women's 500 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,First Place,
+301,2022,Swimming,Ellie Marquardt,"Women's Ivy League Swimming and Diving Championships, Women's 500 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,Second Place,
+302,2022,Swimming,Anna Kalandadze,"Women's Ivy League Swimming and Diving Championships, Women's 500 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,Third Place,
+303,2022,Swimming,Samantha Shelton,"Women's Ivy League Swimming and Diving Championships, Women's 200 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,First Place,
+304,2022,Swimming,Molly Hamlin,"Women's Ivy League Swimming and Diving Championships, Women's 200 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,Second Place,
+305,2022,Swimming,Ashley Post,"Women's Ivy League Swimming and Diving Championships, Women's 200 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,Third Place,
+306,2022,Swimming,Iszac Henig,"Women's Ivy League Swimming and Diving Championships, Women's 100 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,First Place,
+307,2022,Swimming,Nikki Venema,"Women's Ivy League Swimming and Diving Championships, Women's 100 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,Second Place,
+308,2022,Swimming,Molly Hamlin,"Women's Ivy League Swimming and Diving Championships, Women's 100 Yard Freestyle, Blodgett Pool, Harvard University, Boston, MA, 16-19 February",USA,Third Place,
+309,2022,Swimming,Emma Weyant,"NCAA Championships, Women's Swimming, 500 meter freestyle, McAuley Aquatic Center, Atlanta, Georgia",USA,First Place,
+310,2022,Swimming,Erica Sullivan,"NCAA Championships, Women's Swimming, 500 meter freestyle, McAuley Aquatic Center, Atlanta, Georgia",USA,Second Place,
+311,2022,Swimming,Brooke Forde,"NCAA Championships, Women's Swimming, 500 meter freestyle, McAuley Aquatic Center, Atlanta, Georgia",USA,Third Place,
+312,2022,Swimming,Reka Gyorgy,"NCAA Championships, Women's Swimming, 500 meter freestyle, McAuley Aquatic Center, Atlanta, Georgia",USA,Would have been included in the 500 meter finals,[1]
+313,2022,Track and Field,Heather Pady,"Ontario Masters Indoor Championships, Toronto Track and Field Center, Women's 45-49, 3000 Run Masters, Toronto, Canada, 19 February",Canada,First Place,
+314,2022,Track and Field,Heather Pady,"Ontario Masters Athletics Championships, Toronto Track and Field Center, Women's 45-49 1500 meters Masters, Toronto, Canada, 6-7 August",Canada,First Place,
+315,2022,Track and Field,Paula Jones,"Canadian Record Holder, Women's 45-49 Indoor 5000 meter Masters level Run",Canada,National Record Holder,
+316,2022,Track and Field,Jessica Shaw,"Athletics Ontario, Winter Mini Meet #5, Toronto Track and Field Center, Women's 20+ 1500 meters Open, Toronto, Canada, 20 March",Canada,First Place,
+317,2022,Track and Field,Robecca Wheeler,"Athletics Ontario, Winter Mini Meet #5, Toronto Track and Field Center, Women's 20+ 1500 meters Open, Toronto, Canada, 20 March",Canada,Second Place,
+318,2022,Track and Field,Makie Ohler,"Athletics Ontario, Winter Mini Meet #5, Toronto Track and Field Center, Women's 20+ 1500 meters Open, Toronto, Canada, 20 March",Canada,Third Place,
+319,2022,Track and Field,Sandra Guga,"Ontario U20+ Open Championships, Women's 5000 meter Run Open, Toronto Track and Field Center, Toronto, Canada, 10-12 June",Canada,Third Place,
+320,2022,Track and Field,Maria Sandor,"Ontario U18+ Open Championships, Toronto Track and Field Center, Women's 1500 meter Open, Toronto, Canada, 5-6 March",Canada,Third Place,
+321,2022,Track and Field,Skype Stapor,"Phoenix Spring Meet, Toronto Track and Field Center, Women's 1500 meter Open, Toronto, Canada, 15 May",Canada,First Place,
+322,2022,Track and Field,Eliana Marcela Zuniga,"Campionati italiani master FIDAL indoor, Women's F45 60 meters, Ancona, Italy, 10 February",Italy,Third Place,[1]
+323,2022,Track and Field,Silke Breckenfelder,"Campionati italiani master FIDAL indoor, Women's F45 200 meters, Ancona, Italy, 10 February",Italy,First Place/National Title,[1]
+324,2022,Track and Field,Eliana Marcela Zuniga,"Campionati italiani master FIDAL indoor, Women's F45 200 meters, Ancona, Italy, 10 February",Italy,Second Place,[1]
+325,2022,Track and Field,Marta Manfrin,"Campionati italiani master FIDAL indoor, Women's F45 200 meters, Ancona, Italy, 10 February",Italy,Third Place,[1]
+326,2022,Track and Field,Marta Manfrin,"Campionati master indoor interregionale, Women's F45 200 meters, Padova, Italy, 5 March",Italy,First Place,[1]
+327,2022,Track and Field,Emanuela Di Padova,"Campionati master indoor interregionale, Women's F45 200 meters, Padova, Italy, 5 March",Italy,Second Place,[1]
+328,2022,Track and Field,Grace Tong Ling Shum,"Campionati master indoor interregionale, Women's F45 200 meters, Padova, Italy, 5 March",Italy,Third Place,[1]
+329,2022,Track and Field,Giorgia Fascetta,"Campionati italiani paralimpici FISPES indoor, Womens T13 60 meters, Ancona, Italy, 12 March",Italy,First Place/National Title,[1]
+330,2022,Track and Field,Margherita Paciolla,"Campionati italiani paralimpici FISPES indoor, Womens T13 60 meters, Ancona, Italy, 12 March",Italy,Second Place,[1]
+331,2022,Track and Field,Maria Montano Quinonez,"Campionati italiani master FIDAL outdoor, Womens F45 200 meters, Grosseto, Italy, 10 June",Italy,First Place/National Title,[1]
+332,2022,Track and Field,Marta Manfrin,"Campionati italiani master FIDAL outdoor, Womens F45 200 meters, Grosseto, Italy, 10 June",Italy,Second Place,[1]
+333,2022,Track and Field,Silke Breckenfelder,"Campionati italiani master FIDAL outdoor, Womens F45 200 meters, Grosseto, Italy, 10 June",Italy,Third Place,[1]
+334,2022,Track and Field,Caterina Benincasa,"19° Memorial Giacomo ed Eva Carbonchi, Women's 200 meters, Sasso Marconi, Italy, 14 June",Italy,Third Place,[1]
+335,2022,Track and Field,Caterina Manera,"Meeting Assoluto Meeting regionale su pista E-R, Womens 200 meters, Parma, Italy, 5 July",Italy,Third Place,[1]
+336,2022,Track and Field,Agnese Sportono,"Campionati italiani paralimpici FISPES outdoor, Womens T13-20 100 meteres, Padova, Italy, 9 July",Italy,First Place,[1]
+337,2022,Track and Field,Aurora Fiorin,"Campionati italiani paralimpici FISPES outdoor, Womens T13-20 100 meteres, Padova, Italy, 9 July",Italy,Second Place,[1]
+338,2022,Track and Field,Rivana Tedde,"Campionati italiani paralimpici FISPES outdoor, Womens T13-20 100 meteres, Padova, Italy, 9 July",Italy,Third Place,[1]
+339,2022,Track and Field,Ambra Sabatini,"Campionati italiani paralimpici FISPES outdoor, Womens T13-20-63-64 200 meters, Padova, Italy, 9 July",Italy,First Place,[1]
+340,2022,Track and Field,Agnese Sportono,"Campionati italiani paralimpici FISPES outdoor, Womens T13-20-63-64 200 meters, Padova, Italy, 9 July",Italy,Second Place,[1]
+341,2022,Track and Field,Marta Bidoia,"Campionati italiani paralimpici FISPES outdoor, Womens T13-20-63-64 200 meters, Padova, Italy, 9 July",Italy,Third Place,[1]
+342,2022,Track and Field,Marta Bidoia,"Campionati italiani paralimpici FISPES outdoor, Womens T13-13-20-35 400 meters, Padova, Italy, 9 July",Italy,First Place,[1]
+343,2022,Track and Field,Giorgia Fascetta,"Campionati italiani paralimpici FISPES outdoor, Womens T13-13-20-35 400 meters, Padova, Italy, 9 July",Italy,Second Place,[1]
+344,2022,Track and Field,Alice Peltz,"Campionati italiani paralimpici FISPES outdoor, Womens T13-13-20-35 400 meters, Padova, Italy, 9 July",Italy,Third Place,[1]
+345,2022,Track and Field,Antonella Inga,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 100 meters, Brescia, Italy, 1 October",Italy,First Place,[1]
+346,2022,Track and Field,Camilla Pezzotta,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 100 meters, Brescia, Italy, 1 October",Italy,Second Place,[1]
+347,2022,Track and Field,Benedetta Belotti,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 100 meters, Brescia, Italy, 1 October",Italy,Third Place,[1]
+348,2022,Track and Field,Anna Zogno,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 200 meters, Brescia, Italy, 1 October",Italy,First Place,[1]
+349,2022,Track and Field,Sara Cocciu,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 200 meters, Brescia, Italy, 1 October",Italy,Second Place,[1]
+350,2022,Track and Field,Chiara Verzolla,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 200 meters, Brescia, Italy, 1 October",Italy,Third Place,[1]
+351,2022,Track and Field,Margherita Paciolla,"Campionati Italiani paralimpici FISPES di società, Womens T12-13 400 meters, Brescia, Italy, 1 October",Italy,First Place,[1]
+352,2022,Track and Field,Elisabetta Stefanini,"Italian Outdoor Paralympic Record, Womens T12/13, 100 meters, record set at Imola, Italy, on 19 June 2010, 12:79",Italy,Would have kept her record,[1]
+353,2022,Track and Field,Elisabetta Stefanini,"Italian Outdoor Paralympic Record, Womens T12/13, 200 meters, record set at Assago, Italy, on 22 May 2011, 26:52",Italy,Would have kept her record,[1]
+354,2022,Track and Field,Elisabetta Stefanini,"Italian Outdoor Paralympic Record, Womens T12/13, 400 meters, record set at Torino, Italy, on 12 May 2012, 1:01:47",Italy,Would have kept her record,[1]
+355,2022,Track and Field,Elisabetta Stefanini,"Italian Indoor Paralympic Record, Womens T12/13, 60 meters, record set at Ancona, Italy, on 17 March 2012, 8:31",Italy,Would have kept her record,[1]
+356,2022,Track and Field,Elisabetta Stefanini,"Italian Indoor Paralympic Record, Womens T12/13, 200 meters, record set at Ancona, Italy, on 18 March 2012, 26:87",Italy,Would have kept her record,[1]
+357,2022,Track and Field,Chloe Conlon,"59th Equinox Marathon, Fairbanks, AK, 22 September",USA,Third Place,"[1],[2],[3],[4]"
+358,2022,Track and Field,Anita Liefe,"Capitol Fun Run (10 lap race around the capitol of Kansas) Topeka, Kansas, 12 December",USA,First Place,[1]
+359,2021,Archery,Tania Edwards,"Women's Olympic Archery Team; American Continental Qualification Tournament, Monterrey, Nuevo Leon, Mexico, 26-27 March",Canada,Would have made the American Continental Women's Archery Olympic Team for the Tokyo 2021 Olympics,
+360,2021,Cross Country,Gillian McCabe,"Women's Masters 8K, Athletics Canada Cross Country Nationals, Wesley Clover Parks, Nepean, Ontario, Canada, 27 November",Canada,Third Place,
+361,2021,Cycling,Katie Isermann,"USA Road Cycling: Muskego Park Circuit Race, 8 May; Women Elite Category",USA,First Place,
+362,2021,Cycling,Leigh Ann Fields,"USA Road Cycling: Janesville Town Square Gran Prix Day 1(Tour of America's Dairyland), 17 June, Women Cat 2/3",USA,First Place,
+363,2021,Cycling,Catherine Guentert,"USA Road Cycling: Giro D'Grafton (Tour of America's Dairyland), 19 June, Women Cat 2/3",USA,First Place,
+364,2021,Cycling,Mallory Macrostie,"USA Road Cycling: Manitowoc Maritime Bay Classic (Tour of America's Dairyland), Day 2, 22 June, Women Cat 2/3",USA,First Place,
+365,2021,Cycling,Marsha Williams,"Music City Crits, Women's Cycling, Women Category 3, Nashville, TN, 4 August",USA,First Place,
+366,2021,Cycling,Skye Beatty,"Music City Crits, Women's Cycling, Women Category 3, Nashville, TN, 4 August",USA,Second Place,
+367,2021,Cycling,Marsha Williams,"Music City Crits, Women's Cycling, Women Category 3, Nashville, TN, 8 September",USA,Second Place,
+368,2021,Cycling,Faith Powell,"Music City Crits, Women's Cycling, Women Category 3, Nashville, TN, 8 September",USA,Third Place,
+369,2021,Cycling,Marsha Williams,"Music City Crits, Women's Cycling, Women Category 3, Nashville, TN, 1 September",USA,First Place,
+370,2021,Cycling,Paige Vinson,"Music City Crits, Women's Cycling, Women Category 3, Nashville, TN, 1 September",USA,Second Place,
+371,2021,Cycling,Allison Zmuda,"xXx Racing Relay, CX, Women's Open, Chicago, IL, 29 Aug",USA,First Place,
+372,2021,Cycling,Courtney Tanner,"xXx Racing Relay, CX, Women's Open, Chicago, IL, 29 Aug",USA,Second Place,
+373,2021,Cycling,Lauren Wiscomb,"xXx Racing Relay, CX, Women's Open, Chicago, IL, 29 Aug",USA,Third Place,
+374,2021,Cycling,Sydney Guagliardo,"George Garner Memorial CX Race, Women Cat 1/2, Wheeling, IL, 14 Nov",USA,First Place,
+375,2021,Cycling,Lydia Elbert,"George Garner Memorial CX Race, Women Cat 1/2, Wheeling, IL, 14 Nov",USA,Second Place,
+376,2021,Cycling,Katie Isermann,"George Garner Memorial CX Race, Women Cat 1/2, Wheeling, IL, 14 Nov",USA,Third Place,
+377,2021,Cycling,Erin Feldhausen,"Lion Cross p/b LAPT Cycling, Women Cat 1/2 Elite, Waterford, WI, 12 Sept",USA,Second Place,
+378,2021,Cycling,Caitlin Neuman,"Lion Cross p/b LAPT Cycling, Women Cat 1/2 Elite, Waterford, WI, 12 Sept",USA,Third Place,
+379,2021,Cycling,Caitlin Neuman,"Trek CX Cup, Women Cat 1/2 Elite, Waterloo, WI, 9 Oct",USA,Third Place,
+380,2021,Cycling,Sophie Russenberger,"Corn Cross, Cyclocross, Category 1/2 Women, Boring, OR, 18 Sept",USA,Second Place,
+381,2021,Cycling,Heidi Wood,"Corn Cross, Cyclocross, Category 1/2 Women, Boring, OR, 18 Sept",USA,Third Place,
+382,2021,Cycling,Janelle Bickford,"Heiser Farm CX Cyclocross, Category 1/2 Women, Dayton, OR, 2 Oct",USA,First Place,
+383,2021,Cycling,Libby White,"Heiser Farm CX Cyclocross, Category 1/2 Women, Dayton, OR, 2 Oct",USA,Second Place,
+384,2021,Cycling,Holland Larue,"Heiser Farm CX Cyclocross, Category 1/2 Women, Dayton, OR, 2 Oct",USA,Third Place,
+385,2021,Cycling,Anne Davis Usher,"Bridge City CX, Cyclocross, Day2, Masters Women 40-44, Portland, OR, 10 Oct",USA,First Place,
+386,2021,Cycling,Elise Donovan,"Bridge City CX, Cyclocross, Day2, Masters Women 40-44, Portland, OR, 10 Oct",USA,Second Place,
+387,2021,Cycling,Annick Chalier,"Bridge City CX, Cyclocross, Day2, Masters Women 40-44, Portland, OR, 10 Oct",USA,Third Place,
+388,2021,Cycling,Heidi Wood,"Cyclocross Crusade, Heron Lakes, Category 1/2 Women, Portland, OR, 24 Oct",USA,First Place,
+389,2021,Cycling,Madeline Stover,"Cyclocross Crusade, Heron Lakes, Category 1/2 Women, Portland, OR, 24 Oct",USA,Second Place,
+390,2021,Cycling,Holland Larue,"Cyclocross Crusade, Heron Lakes, Category 1/2 Women, Portland, OR, 24 Oct",USA,Third Place,
+391,2021,Cycling,Anne Usher,"Cyclocross Crusade, Cascade Locks Day 1, Category 1/2 Women, Cascade Locks, OR, 30 Oct",USA,First Place,
+392,2021,Cycling,Rachel Geiter,"Cyclocross Crusade, Cascade Locks Day 1, Category 1/2 Women, Cascade Locks, OR, 30 Oct",USA,Second Place,
+393,2021,Cycling,Heidi Wood,"Cyclocross Crusade, Cascade Locks Day 1, Category 1/2 Women, Cascade Locks, OR, 30 Oct",USA,Third Place,
+394,2021,Cycling,Brenna Wrye-Simpson,"Cyclocross Crusade, Cascade Locks Day 2, Category 1/2 Women, Cascade Locks, OR, 31 Oct",USA,Third Place,
+395,2021,Cycling,Rachel Geiter,"Cyclocross Crusade, PIR Infield, Category 1/2 Women, 14 Nov",USA,First Place,
+396,2021,Cycling,Heidi Wood,"Cyclocross Crusade, PIR Infield, Category 1/2 Women, 14 Nov",USA,Second Place,
+397,2021,Cycling,Holland Larue,"Cyclocross Crusade, PIR Infield, Category 1/2 Women, 14 Nov",USA,Third Place,
+398,2021,Cycling,Sophie Russenberger,"Cyclocross Crusade, Barton Park, Category 1/2 Women, Barton, OR, 21 Nov",USA,First Place,
+399,2021,Cycling,Allison Halpin,"Cyclocross Crusade, Barton Park, Category 1/2 Women, Barton, OR, 21 Nov",USA,Second Place,
+400,2021,Cycling,Heidi Wood,"Cyclocross Crusade, Barton Park, Category 1/2 Women, Barton, OR, 21 Nov",USA,Third Place,
+401,2021,Cycling,Rhylee Wittrock,"Commerce Stage Race, Road Race Cycling, Women Category 4/5, Commerce, GA, 1 May",USA,First Place,
+402,2021,Cycling,Emily Woolford,"Commerce Stage Race, Road Race Cycling, Women Category 4/5, Commerce, GA, 1 May",USA,Second Place,
+403,2021,Cycling,Ajay Baker,"Commerce Stage Race, Road Race Cycling, Women Category 4/5, Commerce, GA, 1 May",USA,Third Place,
+404,2021,Cycling,Rhylee Wittrock,"Commerce Stage Race, Time Trial Cycling, Women Category 4/5, Commerce, GA, 1 May",USA,First Place,
+405,2021,Cycling,Emily Woolford,"Commerce Stage Race, Time Trial Cycling, Women Category 4/5, Commerce, GA, 1 May",USA,Second Place,
+406,2021,Cycling,Diane Schleicher,"Commerce Stage Race, Time Trial Cycling, Women Category 4/5, Commerce, GA, 1 May",USA,Third Place,
+407,2021,Cycling,Rhylee Wittrock,"Commerce Stage Race, General Classification Cycling, Women Category 4/5, Commerce, GA, 2 May",USA,First Place,
+408,2021,Cycling,Emily Woolford,"Commerce Stage Race, General Classification Cycling, Women Category 4/5, Commerce, GA, 2 May",USA,Second Place,
+409,2021,Cycling,Ajay Baker,"Commerce Stage Race, General Classification Cycling, Women Category 4/5, Commerce, GA, 2 May",USA,Third Place,
+410,2021,Cycling,Caleigh Rasser,"TONGA 1 Criterium, Women Category 4/5, Demorest, GA, 11 June",USA,First Place,
+411,2021,Cycling,Wendy Jacobsen,"TONGA 1 Criterium, Women Category 4/5, Demorest, GA, 11 June",USA,Second Place,
+412,2021,Cycling,Jessica Sorenson,"TONGA 1 Criterium, Women Category 4/5, Demorest, GA, 11 June",USA,Third Place,
+413,2021,Cycling,Wendy Jacobsen,"TONGA 1 Circuit Race, Women Category 4/5, Demorest, GA, 12 June",USA,First Place,
+414,2021,Cycling,Caleigh Rasser,"TONGA 1 Circuit Race, Women Category 4/5, Demorest, GA, 12 June",USA,Second Place,
+415,2021,Cycling,Iwona Martin,"TONGA 1 Circuit Race, Women Category 4/5, Demorest, GA, 12 June",USA,Third Place,
+416,2021,Cycling,Caleigh Rasser,"TONGA 1 Time Trial Race, Women Category 4/5, Demorest, GA, 12 June",USA,First Place,
+417,2021,Cycling,Jennifer Lesser,"TONGA 1 Time Trial Race, Women Category 4/5, Demorest, GA, 12 June",USA,Second Place,
+418,2021,Cycling,Diane Schleicher,"TONGA 1 Time Trial Race, Women Category 4/5, Demorest, GA, 12 June",USA,Third Place,
+419,2021,Cycling,Jessica Sorenson,"TONGA 1 Circuit Race, Women Category 4/5, Demorest, GA, 12 June (#2)",USA,First Place,
+420,2021,Cycling,Elanor Finlayson,"TONGA 1 Circuit Race, Women Category 4/5, Demorest, GA, 12 June (#2)",USA,Second Place,
+421,2021,Cycling,Diane Schleicher,"TONGA 1 Circuit Race, Women Category 4/5, Demorest, GA, 12 June (#2)",USA,Third Place,
+422,2021,Cycling,Caleigh Rasser,"TONGA 1 Overall Race, Women Category 4/5, Demorest, GA, 12 June",USA,First Place,
+423,2021,Cycling,Jennifer Lesser,"TONGA 1 Overall Race, Women Category 4/5, Demorest, GA, 12 June",USA,Second Place,
+424,2021,Cycling,Diane Schleicher,"TONGA 1 Overall Race, Women Category 4/5, Demorest, GA, 12 June",USA,Third Place,
+425,2021,Cycling,Erin Shelton,"Dalton Grand Prix Cycling Road Race, Women Pro 1-3, Dalton, GA, 26 June",USA,First Place,
+426,2021,Cycling,Beth Lofgren,"Dalton Grand Prix Cycling Road Race, Women Pro 1-3, Dalton, GA, 26 June",USA,Second Place,
+427,2021,Cycling,Sara Fletcher,"Dalton Grand Prix Cycling Road Race, Women Pro 1-3, Dalton, GA, 26 June",USA,Third Place,
+428,2021,Cycling,Saskia Hoppe,"Dalton Grand Prix Cycling Road Race, Women Pro 1-3, Dalton, GA, 27 June",USA,Second Place,
+429,2021,Cycling,Karen Richardson,"Dalton Grand Prix Cycling Road Race, Women Pro 1-3, Dalton, GA, 27 June",USA,Third Place,
+430,2021,Cycling,Carlie Cooper,"Alabama Cycling Classic, Sunny King Criterium, Women Senior Category 3-45, Anniston, AL, 3 July",USA,Second Place,
+431,2021,Cycling,Melissa Dorman,"Alabama Cycling Classic, Sunny King Criterium, Women Senior Category 3-45, Anniston, AL, 3 July",USA,Third Place,
+432,2021,Cycling,Trish Cohen,"TONGA 2, RR2 Cycle Race, Women Pro 1-3, Demorest, GA, 25 July",USA,Third Place,
+433,2021,Cycling,Karen Purtill,"USA Cycling Masters Track National Championships, FTT Women Masters 65-69, Breinigsville, PA, 14-19 Sept",USA,Second Place,
+434,2021,Cycling,Karen Purtill,"USA Cycling Masters Track National Championships, SPR Women Masters 65-69, Breinigsville, PA, 14-19 Sept",USA,Second Place,
+435,2021,Cycling,Karen Purtill,"USA Cycling Masters Track National Championships, TT Women Masters 65-69, Breinigsville, PA, 14-19 Sept",USA,Second Place,
+436,2021,Cycling,Tracy Lea,"USA Cycling Masters Track National Championships, TT Women Masters 65-69, Breinigsville, PA, 14-19 Sept",USA,Third Place,
+437,2021,Cycling,Matilda Reynolds,"Bucks County Classic, Pro/1/2/Women, Doylestown, Pennsylvania, 13 September",USA,Second Place,
+438,2021,Disc Golf,"Michelle Green, USA","2021 PDGA Professional Masters Disc Golf World Championships, FP50 · Pro Masters Women 50+",USA,First Place,[1]
+439,2021,Disc Golf,Kimberly Giannola,"LouLadies Challenge, FPO Open Women",USA,First Place,[1]
+440,2021,Disc Golf,Kimberly Giannola,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,"First Place, tied",
+441,2021,Disc Golf,Katelyn Belty,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,"First Place, tied",
+442,2021,Disc Golf,Kaylee Kincaid,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,Second Place,
+443,2021,Disc Golf,Chelsea Harden,"3rd Annual Emporia Ladies Open, FPO Open Women",USA,Third Place,
+444,2021,Disc Golf,Michelle Green,"PDGA Professional Masters Disc Golf World Championships, Women's FP50+, Johnson City, Tennessee, 3-7 August 2021",USA,First Place,
+445,2021,Disc Golf,Lorena Dostal,"PDGA Professional Masters Disc Golf World Championships, Women's FP50+, Johnson City, Tennessee, 3-7 August 2021",USA,Second Place,
+446,2021,Disc Golf,Amy Campbell,"PDGA Professional Masters Disc Golf World Championships, Women's FP50+, Johnson City, Tennessee, 3-7 August 2021",USA,Third Place,
+447,2021,Disc Golf,Kimberly Giannola,"Bride of Big Blue Monster, FPO Open Women, PDGA-sanctioned singles tournament",USA,First Place,[1]
+448,2021,Disc Golf,Ella Hansen,"US Distance Championships in Disc Golf, Women's Division, Championship Village, Rock Hill, South Carolina, 5-9 October",USA,First Place,
+449,2021,Disc Golf,Kat Mertsch,"US Distance Championships in Disc Golf, Women's Division, Championship Village, Rock Hill, South Carolina, 5-9 October",USA,Second Place,
+450,2021,Disc Golf,Kona Star Panis,"US Distance Championships in Disc Golf, Women's Division, Championship Village, Rock Hill, South Carolina, 5-9 October",USA,Third Place,
+451,2021,Disc Golf,Lindsay Fish,"35th Annual Halloween Howler, FPO Open Women, Mobile, AL, 23-24 October",USA,First Place,[1]
+452,2021,Disc Golf,Betty Howell Kennedy,"35th Annual Halloween Howler, FPO Open Women, Mobile, AL, 23-24 October",USA,Second Place,[1]
+453,2021,Disc Golf,Carol Strous,"35th Annual Halloween Howler, FPO Open Women, Mobile, AL, 23-24 October",USA,Third Place,[1]
+454,2021,Disc Golf,Deedee Fussner,"The Panhandle Open 5, FPO Open Women, Lebanon, MO, 11 June",USA,First Place,[1]
+455,2021,Disc Golf,Sarah Tominack,"The Lumberjack Launch Presented by Flight Factory, FPO Open Women, Milton, FL, 9 October",USA,First Place,[1]
+456,2021,Disc Golf,Deedee Fussner,"The Lumberjack Launch Presented by Flight Factory, FPO Open Women, Milton, FL, 9 October",USA,Second Place,[1]
+457,2021,Disc Golf,Lindsay Fish,"2021 Big Rip Classic Presented by Discraft & Grip-Eq, FPO Open Women, Lumberton, MS, 1-3 October",USA,First Place,[1]
+458,2021,Disc Golf,Jocelyn Jessop,"2021 Big Rip Classic Presented by Discraft & Grip-Eq, FPO Open Women, Lumberton, MS, 1-3 October",USA,Second Place,[1]
+459,2021,Disc Golf,Emelia Marshall,"2021 Big Rip Classic Presented by Discraft & Grip-Eq, FPO Open Women, Lumberton, MS, 1-3 October",USA,Third Place,[1]
+460,2021,Disc Golf,Hannah Yates,"Alabama Women's Disc Golf Championships Presented by Westside Discs, FPO Open Women, Jasper, AL, 21-22 August",USA,Third Place,[1]
+461,2021,Disc Golf,Kimberly Giannola,Liberty Gold FPO Open Women,USA,First Place,[1]
+462,2021,Disc Golf,Ellie Bryant,"WGE - KC Diva Spring Feeva, FPO Open Women",USA,First Place,[1]
+463,2021,Disc Golf,Shelby Dutton,"WGE - KC Diva Spring Feeva, FPO Open Women",USA,Second Place,[1]
+464,2021,Disc Golf,Jaimee Crosby,"WGE - KC Diva Spring Feeva, FPO Open Women",USA,Third Place,[1]
+465,2021,Disc Golf,Kimberly Giannola,"Maverick DG: Longview Open, FPO Open Women",USA,First Place,[1]
+466,2021,Golf,Perrine Delacour,US National Women's Golf Association Mini-Tour Event; Florida,USA,First Place,
+467,2021,Marathon,Christine Meyer,"Anchorage Mayor's Marathon, Overall Female",USA,First Place,
+468,2021,MMA,Celine Provost,"Combate Global prelims, MMA, Miami, Florida, 11 September",France,Would have advanced,
+469,2021,Powerlifting,Aileen Bishop,"CPU Alberta Provincials Powerlifting, Women Classic 185+ Open, Edmonton, Alberta, Canada, 5 December",Canada,First Place,
+470,2021,Powerlifting,Julianne Cragg,"CPU Alberta Provincials Powerlifting, Women Classic 185+ Open, Edmonton, Alberta, Canada, 5 December",Canada,Second Place,
+471,2021,Powerlifting,Emma Schempp,"CPU Alberta Provincials Powerlifting, Women Classic 185+ Open, Edmonton, Alberta, Canada, 5 December",Canada,Third Place,
+472,2021,Powerlifting,Tammy Drover,"CPU Western Canadians Powerlifting, Women Classic 185+ Open, Richmond, British Columbia, Canada, 13 November",Canada,Second Place,
+473,2021,Powerlifting,Barbara-Ann Kubb,"CPU Western Canadians Powerlifting, Women Classic 185+ Open, Richmond, British Columbia, Canada, 13 November",Canada,Third Place,
+474,2021,Powerlifting,Erin Cooke,"CPU Cowdown Showdown Powerlifting, Women Classic 185+ Open, Calgary, Alberta, 18 September",Canada,First Place,
+475,2021,Powerlifting,Mandy Materi,"CPU Cowdown Showdown Powerlifting, Women Classic 185+ Open, Calgary, Alberta, 18 September",Canada,Second Place,
+476,2021,Rowing,Fran Franchi,"World Indoor Rowing Championships, W 65 2000 m, VIRTUAL, 23-27 Feb",UK,First Place,
+477,2021,Rowing,Margarethe Hippler,"World Indoor Rowing Championships, W 65 2000 m, VIRTUAL, 23-27 Feb",Germany,Second Place,
+478,2021,Skateboarding,Taylor Silverman,"Red Bull Cornerstone Skateboard Series, Women's Street, Lincoln, Nebraska, 4 December",USA,First Place,
+479,2021,Skateboarding,Alex Herring,"Red Bull Cornerstone Skateboard Series, Women's Street, Lincoln, Nebraska, 4 December",USA,Second Place,
+480,2021,Swimming,Bridget O'Leary,"Women 200 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,First Place,
+481,2021,Swimming,Amelia Liu,"Women 200 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,Second Place,
+482,2021,Swimming,Nathalie Valdman,"Women 200 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,Third Place,
+483,2021,Swimming,Amelia Liu,"Women 100 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,First Place,
+484,2021,Swimming,Melissa Parker,"Women 100 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,Second Place,
+485,2021,Swimming,Priscilla Wongso and Bridget O'Leary (tied),"Women 100 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,Third Place,
+486,2021,Swimming,Anna Kalandadze,"Women 500 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,First Place,
+487,2021,Swimming,Ellie Marquardt,"Women 500 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,Second Place,
+488,2021,Swimming,Grace Giddings,"Women 500 Yard Freestyle, Penn University vs. Cornell University vs. Princeton University Tri-Meet, Sheerr Pool, Philadelphia, PA, 20 November",USA,Third Place,
+489,2021,Swimming,Robyn Poulin,"Women's Masters 8K, Athletics Canada Cross Country Nationals, Wesley Clover Parks, Nepean, Ontario, Canada, 27 November",Canada,Second Place,
+490,2021,Swimming,Anna Kalandadze,"Women's 500 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 3 December",USA,First Place,
+491,2021,Swimming,Gail Workman,"Women's 500 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 3 December",USA,Second Place,
+492,2021,Swimming,Marij van der Mast,"Women's 500 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 3 December",USA,Third Place,
+493,2021,Swimming,Toni Naccarella,"Women's 200 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 4 December",USA,First Place,
+494,2021,Swimming,Kennedy Lovell,"Women's 200 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 4 December",USA,Second Place,
+495,2021,Swimming,Sofia Henell,"Women's 200 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 4 December",USA,Third Place,
+496,2021,Swimming,Anna Kalandadze,"Women's 1650 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 5 December",USA,First Place,
+497,2021,Swimming,Grace Giddings,"Women's 1650 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 5 December",USA,Second Place,
+498,2021,Swimming,Gail Workman,"Women's 1650 yard freestyle, Zippy Invitational, Ocasek Natatorium, Akron, Ohio, 5 December",USA,Third Place,
+499,2021,Track and Field,Gabrielle Thomas,"Tokyo Olympics, Women's 200 meter race, August 3*",USA,Silver Medal,
+500,2021,Track and Field,Shelly-Ann Fraser-Pryce,"Tokyo Olympics, Women's 200 meter race, August 3*",Jamaica,Bronze Medal,
+501,2021,Track and Field,Senbere Teferi,"Prefontaine Classic, Eugene Diamon League Track and Field, Hayward Field, Eugene, Oregon, Women's 5000m, 20-21 August*",Ethiopia,First Place,
+502,2021,Track and Field,Fantu Worku,"Prefontaine Classic, Eugene Diamon League Track and Field, Hayward Field, Eugene, Oregon, Women's 5000m, 20-21 August*",Ethiopia,Second Place,
+503,2021,Track and Field,Loice Chemnung,"Prefontaine Classic, Eugene Diamon League Track and Field, Hayward Field, Eugene, Oregon, Women's 5000m, 20-21 August*",Kenya,Third Place,
+504,2021,Track and Field,Favour Ofill,"World Junior Under 20 World Championships, Nairobi, Kenya, Women's 200m, 21 August*",Nigeria,First Place,
+505,2021,Track and Field,Lucia Carrillo,"World Junior Under 20 World Championships, Nairobi, Kenya, Women's 200m, 21 August*",Spain,Second Place,
+506,2021,Track and Field,Barbora Splechtnova,"World Junior Under 20 World Championships, Nairobi, Kenya, Women's 200m, 21 August*",Czech Republic,Third Place,
+507,2021,Track and Field,Anna Maria Mencoboni,"Campionati italiani paralimpici FISPES indoor, Women's 60 meters (T12), Ancona, Italy, 22 January",Italy,First Place,[1]
+508,2021,Track and Field,Anna Maria Mencoboni,"Campionati italiani paralimpici FISPES indoor, Women's 200 meters (T12), Ancona, Italy, 22 January",Italy,First Place,[1]
+509,2021,Track and Field,Sara Cocciu,"Campionati italiani paralimpici FISPES indoor, Women's 400 meters (T12), Ancona, Italy, 22 January",Italy,First Place,[1]
+510,2021,Track and Field,Margherita Paciolla,"World Para Athletics Grand Prix, Women's 200 meters, Jesolo, Italy, 16 April",Italy,First Place,[1]
+511,2021,Track and Field,Alice Metais,"World Para Athletics Grand Prix, Women's 400 meters, Jesolo, Italy, 16 April",France,First Place,[1]
+512,2021,Track and Field,Alice Maule,"FISPES Italian Paralympics, Women's 100 meters Concesio, Italy, 4 July",Italy,First Place/National Title,[1]
+513,2021,Track and Field,Alice Maule,"FISPES Italian Paralympics, Women's 200 meters Concesio, Italy, 4 July",Italy,First Place/National Title,[1]
+514,2021,Track and Field,Michela Borschia,"Campionati italiani master FIDAL indoor, F45 Women's 200 meters, Ancona, Italy, 18 March",Italy,Second Place,[1]
+515,2021,Track and Field,Patrizia Caravillani,"Campionati italiani master FIDAL indoor, F45 Women's 200 meters, Ancona, Italy, 18 March",Italy,Third Place,[1]
+516,2021,Track and Field,Alessandra Testa,"Campionati italiani paralimpici FISPES indoor, F45 Women's 400 meters, Ancona, Italy, 22 January",Italy,Second Place,[1]
+517,2021,Track and Field,Veronica Catapano,"Campionati italiani paralimpici FISPES indoor, F45 Women's 400 meters, Ancona, Italy, 22 January",Italy,Third Place,[1]
+518,2021,Track and Field,Gwenaig Le Vourc'h,"World Para Athletics Grand Prix, Women's 400 meters, Jesolo, Italy, 16 April",France,Second Place,[1]
+519,2021,Track and Field,Nuria Pascual Folgado,"World Para Athletics European Championships, Women's T13 400 meters, Bydgoszcz, Poland, 1 June",Spain,Would have made it to the finals,[1]
+520,2021,Track and Field,Margherita Paciolla,"World Para Athletics Grand Prix, Women's 400 meters, Jesolo, Italy, 16 April",Italy,Third Place,[1]
+521,2021,Track and Field,Giorgia Fascetta,"FISPES Italian Paralympics, Women's 100 meters Concesio, Italy, 4 July",Italy,Second Place,[1]
+522,2021,Track and Field,Giorgia Fascetta,"FISPES Italian Paralympics, Women's 200 meters Concesio, Italy, 4 July",Italy,Second Place,[1]
+523,2021,Track and Field,Margherita Paciolla,"FISPES Italian Paralympics outdoor, Women's T 13 400 meters, Concesio, Italy, 4 July",Italy,First Place/National Title,[1]
+524,2021,Track and Field,Giorgia Fascetta,"FISPES Italian Paralympics outdoor, Women's T 13 400 meters, Concesio, Italy, 4 July",Italy,Second Place,[1]
+525,2021,Track and Field,Greta Antolini,"1° Meeting Ama, Women's 400 meteres, Sradio Polisportivo Comunale - Civitanova Marche, Italy, 17 July",Italy,Second Place,[1]
+526,2021,Track and Field,Michela Lain Contato,"1° Meeting Ama, Women's 400 meteres, Sradio Polisportivo Comunale - Civitanova Marche, Italy, 17 July",Italy,Third Place,[1]
+527,2021,Track and Field,Valentina Facciani,"Campionati regionali individuali master, Women's 400 meters, Santarcangelo, Italy, 28 August",Italy,Second Place,[1]
+528,2021,Track and Field,Michela Borschia,"Campionati italiani master FIDAL outdoor, Womens F45 100 meters, Rieti, Italy, 9 September",Italy,First Place/National Title,[1]
+529,2021,Track and Field,Serena Sbarzaglia,"Campionati regionali individuali master, Women's 400 meters, Santarcangelo, Italy, 28 August",Italy,First Place,[1]
+530,2021,Track and Field,Antonella Giulivi,"Campionati italiani master FIDAL outdoor, Womens F45 100 meters, Rieti, Italy, 9 September",Italy,Second Place,[1]
+531,2021,Track and Field,Patrizia Caravillani,"Campionati italiani master FIDAL outdoor, Womens F45 100 meters, Rieti, Italy, 9 September",Italy,Third Place,[1]
+532,2021,Track and Field,Michela Borschia,"Campionati italiani master FIDAL outdoor, Womens F45 200 meters, Rieti, Italy, 9 September",Italy,First Place/National Title,[1]
+533,2021,Track and Field,Ivana Fella,"Campionati italiani master FIDAL outdoor, Womens F45 200 meters, Rieti, Italy, 9 September",Italy,Second Place,[1]
+534,2021,Track and Field,Patrizia Caravillani,"Campionati italiani master FIDAL outdoor, Womens F45 200 meters, Rieti, Italy, 9 September",Italy,Third Place,[1]
+535,2021,Track and Field,Teresa Latella,"Campionati italiani master FIDAL outdoor, Womens F45 400 meters, Rieti, Italy, 9 September",Italy,First Place/National Title,[1]
+536,2021,Track and Field,Alice Sordini,"Campionati italiani master FIDAL outdoor, Womens F45 400 meters, Rieti, Italy, 9 September",Italy,Second Place,[1]
+537,2021,Track and Field,Silvia Prina,"Campionati italiani master FIDAL outdoor, Womens F45 400 meters, Rieti, Italy, 9 September",Italy,Third Place,[1]
+538,2021,Track and Field,Elisabetta Stefanini,"Italian Outdoor Paralympic Record, Womens T12/13, 100 meters, record set at Ancona, Italy, on 17 March 2012, 1:02:88",Italy,Would have kept her record,[1]
+539,2021,Track and Field,Carma Reed,"Kenai River Marathon, Kenai, AK, 26 September",USA,First Place,[1]
+540,2021,Track and Field,Susan Craig,"Kenai River Marathon, Kenai, AK, 26 September",USA,Second Place,[1]
+541,2021,Track and Field,Trisha Fields,"Kenai River Marathon, Kenai, AK, 26 September",USA,Third Place,[1]
+542,2021,Track and Field,Elisabetta Stefanini,FIDAL Italian Master Indoor championships,Italy,200 meter Record,[1]
+543,2021,Weightlifting,Roviel Detenamo,Olympic Qualifying Trials in Women's Heavyweight Female Weightlifting,Nauru,"Would have competed in the Tokyo Olympic Games, 2021",[1]
+544,2020,Powerlifting,Crystal Smith,"UBC New Year's Powerlifting Championships, Women Classic 185+ Open, Vancouver, British Columbia, Canada, 18 January",USA,First Place,
+545,2020,Rowing,Cecile Barias,"World Indoor Rowing Championships, W 60+ 500 m, Paris, France, 7-8 Feb",France,Second Place,
+546,2020,Rowing,Monique Laude,"World Indoor Rowing Championships, W 60+ 500 m, Paris, France, 7-8 Feb",France,Third Place,
+547,2020,Rowing,Marylou Rance,"World Indoor Rowing Championships, W 65 2000 m, Paris, France, 7-8 Feb",France,Second Place,
+548,2020,Rowing,Chantal Gantch,"World Indoor Rowing Championships, W 65 2000 m, Paris, France, 7-8 Feb",France,Third Place,
+549,2020,Track and Field,Mikayla Malaspina,"Big Sky Indoor Track and Field Championships, Mile",USA,"First Place, and would have been the NCAA division I Collegiate Conference Champion",
+550,2020,Track and Field,Patricia Carlson,"Montana State University Dual Meet Invitational, Mile",USA,First Place,
+551,2020,Track and Field,Antonella Inga,"FISPES Italian Paralympics, Women's 100 meters T12, Italy, 11 September",Italy,First Place,[1]
+552,2020,Track and Field,Anna Maria Mencoboni,"FISPES Italian Paralympics, Women's 100 meters T12, Italy 11 September",Italy,Second Place,[1]
+553,2020,Track and Field,Chiara Verzolla,"FISPES Italian Paralympics, Women's 100 meters T12, Italy, 11 September",Italy,Third Place,[1]
+554,2020,Track and Field,Anna Maria Mencoboni,"Campionati italiani paralimpici FISPES outdoor, Women's 200 meters (T12), Jesolo, Italy, 11 September",Italy,First Place,[1]
+555,2020,Track and Field,Sara Cocciu,"Campionati italiani paralimpici FISPES outdoor, Women's 200 meters (T12), Jesolo, Italy, 11 September",Italy,First Place,[1]
+556,2020,Track and Field,Sara Cocciu,"Campionati italiani paralimpici FISPES outdoor, Women's 400 meters (T12), Jesolo, Italy, 11 September",Italy,First Place,[1]
+557,2020,Track and Field,Cristina Sanulli,"Campionati italiani master FIDAL outdoor, Women's F45 200 meters, Arezzo, Italy, 9 October",Italy,First Place,[1]
+558,2020,Track and Field,Denise Caroline Neumann,"Campionati italiani master FIDAL outdoor, Women's F45 200 meters, Arezzo, Italy, 9 October",Italy,Second Place,[1]
+559,2020,Track and Field,Marta Manfrin,"Campionati italiani master FIDAL outdoor, Women's F45 200 meters, Arezzo, Italy, 9 October",Italy,Third Place,[1]
+560,2020,Track and Field,Jade Ribinson,"Women's Varsity 55 Meter Dash, Elm City Couches Invite, Floyd Little Athletic Center, New Haven, CT, 4 Jan",USA,First Place,[1]
+561,2020,Track and Field,Selina Soule,"Women's Varsity 55 Meter Dash, Elm City Couches Invite, Floyd Little Athletic Center, New Haven, CT, 4 Jan",USA,Second Place,[1]
+562,2020,Track and Field,Ciara Johnson,"Women's Varsity 55 Meter Dash, Elm City Couches Invite, Floyd Little Athletic Center, New Haven, CT, 4 Jan",USA,Third Place,[1]
+563,2020,Track and Field,Leila Gary,"Women's Varsity 55 Meter Dash, Rhody Classic, Univerity of Rhode Island, Kingston, RI, 11 Jan",USA,First Place,[1]
+564,2020,Track and Field,Danielle Phillip,"Women's Varsity 55 Meter Dash, Rhody Classic, Univerity of Rhode Island, Kingston, RI, 11 Jan",USA,Second Place,[1]
+565,2020,Track and Field,Madison Alves,"Women's Varsity 55 Meter Dash, Rhody Classic, Univerity of Rhode Island, Kingston, RI, 11 Jan",USA,Third Place,[1]
+566,2020,Track and Field,Howa Grear,"Women's Scholastic 55 meter Dash, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 18 Jan",USA,First Place,[1]
+567,2020,Track and Field,Jackie Comeau,"Women's Scholastic 55 meter Dash, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 18 Jan",USA,Second Place,[1]
+568,2020,Track and Field,Jahaida Gabriel,"Women's Scholastic 55 meter Dash, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 18 Jan",USA,Third Place,[1]
+569,2020,Track and Field,Khaia Moye,"Women's Standard 55 Meter Dash, CCC Indoor T&F Championship, Floyd Little Athletic Center, New Haven, CT, 1 Feb",USA,First Place,[1]
+570,2020,Track and Field,Jade Ribinson,"Women's Standard 55 Meter Dash, CCC Indoor T&F Championship, Floyd Little Athletic Center, New Haven, CT, 1 Feb",USA,Second Place,[1]
+571,2020,Track and Field,Selina Soule,"Women's Standard 55 Meter Dash, CCC Indoor T&F Championship, Floyd Little Athletic Center, New Haven, CT, 1 Feb",USA,Third Place,[1]
+572,2020,Track and Field,Khaia Moye,"Women's Varsity 55 Meter Dash, Capital Prep Last Chance Meet (Hartford Public Schools), Floyd Little Athletic Center, New Haven, CT, 10 Feb",USA,First Place,[1]
+573,2020,Track and Field,Ciara Johnson,"Women's Varsity 55 Meter Dash, Capital Prep Last Chance Meet (Hartford Public Schools), Floyd Little Athletic Center, New Haven, CT, 10 Feb",USA,Second Place,[1]
+574,2020,Track and Field,Mina Millington,"Women's Varsity 55 Meter Dash, Capital Prep Last Chance Meet (Hartford Public Schools), Floyd Little Athletic Center, New Haven, CT, 10 Feb",USA,Third Place,[1]
+575,2020,Track and Field,Kedarjah Lewis,"Women's Varsity 55 Meter Dash, CIAC Combined Class S Championships, Floyd Little Athletic Center, New Haven, CT, 14 Feb",USA,Second Place,[1]
+576,2020,Track and Field,Jahmiha Lindo,"Women's Varsity 55 Meter Dash, CIAC Combined Class S Championships, Floyd Little Athletic Center, New Haven, CT, 14 Feb",USA,Third Place,[1]
+577,2020,Track and Field,Howa Grear,"Womens Scholastic 55 Meter Dash, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 17 Jan",USA,First Place,[1]
+578,2020,Track and Field,Jackie Comeau,"Womens Scholastic 55 Meter Dash, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 17 Jan",USA,Second Place,[1]
+579,2020,Track and Field,Jahaida Gabriel,"Womens Scholastic 55 Meter Dash, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 17 Jan",USA,Third Place,[1]
+580,2020,Track and Field,Cleondra White,"Womens Varsity 60 Meter Dash, Hillhouse Track Classic, Floyd Little Athletic Center, New Haven, CT, 25 Jan",USA,Third Place,[1]
+581,2020,Track and Field,Stephanie Simon,"Womens Scholastic 200 Meters, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 17-18 Jan",USA,First Place,[1]
+582,2020,Track and Field,Howa Grear,"Womens Scholastic 200 Meters, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 17-18 Jan",USA,Second Place,[1]
+583,2020,Track and Field,Day Ruffo,"Womens Scholastic 200 Meters, East Coast Invitational, Providence Career and Technical Academy, Providence, RI, 17-18 Jan",USA,Third Place,[1]
+584,2020,Track and Field,Anna-Sasha Jones,"Womens Varsity 300 Meters, Capital PrepLast Chance Meet (Hartford Public Schools), Floyd Little Athletic Center, New Haven, CT, 10 Feb",USA,Third Place,[1]
+585,2019,Cross Country,Beatrix Frissell,"University of Montana Cross Country Invitational, Women's 5K Invitational",USA,First Place,
+586,2019,Cycling,Sofía Arreola Navarro,"Southern Colorado Velo Crits presented Tierra Plan, 14 May",USA,First Place,
+587,2019,Cycling,Emily Jordan,"Ridge at 38 Criterium, Colorado Senior Crit Championships, 9 June",USA,Colorado State Criterium Champion SWP-12,
+588,2019,Cycling,Stephanie Smith,"USA Cycling Masters Road Nationals, TT, 8 Aug, Women 35-39",USA,Masters Women 35-39 US Time Trial Champion,
+589,2019,Cycling,Annie Poland,"Steamboat Springs Stage Race, TT, 31 Aug",USA,First Place,
+590,2019,Cycling,Annie Poland,"Steamboat Springs Stage Race, RR, 1 Sept",USA,First Place,
+591,2019,Cycling,Margot Clyne,"Steamboat Springs Stage Race, Crit, 2 Sept",USA,First Place,
+592,2019,Cycling,Annie Poland,"Steamboat Springs Stage Race, GC, 2 Sept",USA,Overall General Classification Winner,
+593,2019,Cycling,Allison Zmuda,"Chicago Cyclocross Cup #11, Midwest Regional Cyclocross, Women Single Speed, 8 Dec",USA,First Place,
+594,2019,Cycling,Corrie Osborne,"Wheeling Heritage Part CX, Women Singlespeed Cyclocross, Wheeling, IL 17 Nov",USA,First Place,
+595,2019,Cycling,Meesa Maeng,"Wheeling Heritage Part CX, Women Singlespeed Cyclocross, Wheeling, IL, 17 Nov",USA,Second Place,
+596,2019,Cycling,Laura Shields,"Wheeling Heritage Part CX, Women Singlespeed Cyclocross, Wheeling, IL, 17 Nov",USA,Third Place,
+597,2019,Cycling,Allison Zmuda,"Groundhog PSI-Cyclocross, Women Singlespeed, Woodstock, IL, 10 Nov",USA,First Place,
+598,2019,Cycling,Megan Tsupros,"Groundhog PSI-Cyclocross, Women Singlespeed, Woodstock, IL, 10 Nov",USA,Second Place,
+599,2019,Cycling,Corrie Osborne,"Groundhog PSI-Cyclocross, Women Singlespeed, Woodstock, IL, 10 Nov",USA,Third Place,
+600,2019,Cycling,Kristen Hosey,"Keating Law Offices Illinois State Cyclocross Championships, Women Open Singlespeed, 9 Nov",USA,First Place,
+601,2019,Cycling,Megan Tsupros,"Keating Law Offices Illinois State Cyclocross Championships, Women Open Singlespeed, 9 Nov",USA,Second Place,
+602,2019,Cycling,Laura Shields,"Keating Law Offices Illinois State Cyclocross Championships, Women Open Singlespeed, 9 Nov",USA,Third Place,
+603,2019,Cycling,Allison Zmuda,"Campton Cross, Women Singlespeed Cyclocross, 3 Nov",USA,First Place,
+604,2019,Cycling,Rosemary Colgan,"Campton Cross, Women Singlespeed Cyclocross, 3 Nov",USA,Second Place,
+605,2019,Cycling,Laura Shields,"Campton Cross, Women Singlespeed Cyclocross, 3 Nov",USA,Third Place,
+606,2019,Cycling,Laura Alagna,"ABD Sunrise Park Cyclocross, Women Cat 3/4, 27 Oct",USA,First Place,
+607,2019,Cycling,Charlotte Erickson,"ABD Sunrise Park Cyclocross, Women Cat 3/4, 27 Oct",USA,Second Place,
+608,2019,Cycling,Jennifer Groen,"ABD Sunrise Park Cyclocross, Women Cat 3/4, 27 Oct",USA,Third Place,
+609,2019,Cycling,Rosemary Colgan,"ABD Sunrise Park Cyclocross, Women's Singlespeed, 27 Oct",USA,Third Place,
+610,2019,Cycling,Joy Franco,"Carpentersville Wooldland School Cyclocross, Women Cat 3/4, 20 Oct",USA,First Place,
+611,2019,Cycling,Allison Zmuda,"Carpentersville Woodland School Cyclocross, Women Singlespeed, 20 Oct",USA,First Place,
+612,2019,Cycling,Laura Alagna,"BB/RR Pulaski Woods, CCC #3 Cyclocross, Women Cat 3/4, Bloomington, IN,13 Oct",USA,First Place,
+613,2019,Cycling,Allison Zmuda,"BB/RR Pulaski Woods, CCC #3 Cyclocross, Women Cat 3/4, Bloomington, IN,13 Oct",USA,Second Place,
+614,2019,Cycling,Rachel Pearson,"BB/RR Pulaski Woods, CCC #3 Cyclocross, Women Cat 3/4, Bloomington, IN,13 Oct",USA,Third Place,
+615,2019,Cycling,Allison Zmuda,"BB/RR Pulaski Woods CCC #3 Cyclocross, Women Singlespeed, Bloomington, IN, 13 Oct",USA,First Place,
+616,2019,Cycling,Megan Tsupros,"BB/RR Pulaski Woods CCC #3 Cyclocross, Women Singlespeed, Bloomington, IN, 13 Oct",USA,Second Place,
+617,2019,Cycling,Kristen Hosey,"BB/RR Pulaski Woods CCC #3 Cyclocross, Women Singlespeed, Bloomington, IN, 13 Oct",USA,Third Place,
+618,2019,Cycling,Jordan Austin,"xXx Racing-Athletico Caldwell Woods CX CCC Cyclocross, Women Cat 4/5, 29 Sept",USA,First Place,
+619,2019,Cycling,Joy Franco,"Carpentersville Woodland Cyclocross, Women Cat 3/4, Carpentersville, IL, 20 October",USA,First Place,
+620,2019,Cycling,Lydia Elbert,"Carpentersville Woodland Cyclocross, Women Cat 3/4, Carpentersville, IL, 20 October",USA,Second Place,
+621,2019,Cycling,Jordan Austin,"Carpentersville Woodland Cyclocross, Women Cat 3/4, Carpentersville, IL, 20 October",USA,Third Place,
+622,2019,Cycling,Allison Zmuda,"Carpentersville Woodland Cyclocross, Women Singlespeed, Carpentersville, IL, 20 October",USA,First Place,
+623,2019,Cycling,Corrie Osborne,"Carpentersville Woodland Cyclocross, Women Singlespeed, Carpentersville, IL, 20 October",USA,Second Place,
+624,2019,Cycling,Meesa Maeng,"Carpentersville Woodland Cyclocross, Women Singlespeed, Carpentersville, IL, 20 October",USA,Third Place,
+625,2019,Cycling,Allison Zmuda,"Montrose Beach, Chicago Cyclocross Cup #11, Midwest Regional Cyclocross, Women's Singlespeed, Chicago, IL, 8 Dec",USA,First Place,
+626,2019,Cycling,Megan Tsupros,"Montrose Beach, Chicago Cyclocross Cup #11, Midwest Regional Cyclocross, Women's Singlespeed, Chicago, IL, 8 Dec",USA,Second Place,
+627,2019,Cycling,Corrie Osborne,"Montrose Beach, Chicago Cyclocross Cup #11, Midwest Regional Cyclocross, Women's Singlespeed, Chicago, IL, 8 Dec",USA,Third Place,
+628,2019,Cycling,Carolyn Defoore,"Houston Grand Crit, Women P/1/2/3, 5 May",USA,First Place,
+629,2019,Cycling,Clara Copponi,"36th EPZ Omloop van Borsele, 's-Heerenhoek, Netherlands, 27 April",France,Third Place,
+630,2019,Cycling,Jordan Austin,"xXx Racing-Athletico Caldwell Woods CX CCC, Women Cat 4/5, Bloomington, Indiana, 29 September",USA,First Place,
+631,2019,Cycling,Caitlin Hamer,"xXx Racing-Athletico Caldwell Woods CX CCC, Women Cat 4/5, Bloomington, Indiana, 29 September",USA,Second Place,
+632,2019,Cycling,Dianna Reiger-Roberts,"xXx Racing-Athletico Caldwell Woods CX CCC, Women Cat 4/5, Bloomington, Indiana, 29 September",USA,Third Place,
+633,2019,Cycling,Laura Alagna,"Half Acre Cycling's CX Eliminator, Women's A/B Open, Chicago, IL, 15 Sept",USA,Second Place,
+634,2019,Cycling,Jennifer Mosley,"Half Acre Cycling's CX Eliminator, Women's A/B Open, Chicago, IL, 15 Sept",USA,Third Place,
+635,2019,Cycling,Jordan Austin,"Hopkins Park CX, Women's Cat 3/4, Bloomingdale, IL, 6 Oct",USA,Second Place,
+636,2019,Cycling,Allison Zmuda,"Hopkins Park CX, Women's Cat 3/4, Bloomingdale, IL, 6 Oct",USA,Third Place,
+637,2019,Cycling,Katelin Mathers,"Grand Prix Luciano Bailey: Heiser Farm CX, Women 2/3, Dayton, OR, 28 Sept",USA,Second Place,
+638,2019,Cycling,Evelyn Boling,"Grand Prix Luciano Bailey: Heiser Farm CX, Women 2/3, Dayton, OR, 28 Sept",USA,Third Place,
+639,2019,Cycling,Sierra Domaille,"Cross Crusade, Cyclocross, Kruger Farm, Category 1/2 Women, Sauvie Island, OR, 17 Nov",USA,Second Place,
+640,2019,Cycling,Elizabeth White,"Cross Crusade, Cyclocross, Kruger Farm, Category 1/2 Women, Sauvie Island, OR, 17 Nov",USA,Third Place,
+641,2019,Cycling,Kathleen Hall,"USA Cycling Masters Track Nationals, TT Women Master 65-69, Carson, CA, 27 Aug-1 Sept",USA,Second Place,
+642,2019,Disc Golf,Kerri French,"PDGA Amateur Disc Golf World Championships - Powered by Prodigy, Amateur Women's Over 40 Division, York, Pennsylvania, 23-27 July",USA,First Place,
+643,2019,Disc Golf,Mila Puumala,"PDGA Amateur Disc Golf World Championships - Powered by Prodigy, Amateur Women's Over 40 Division, York, Pennsylvania, 23-27 July",Finland,Second Place,
+644,2019,Disc Golf,Tamara Coburn,"PDGA Amateur Disc Golf World Championships - Powered by Prodigy, Amateur Women's Over 40 Division, York, Pennsylvania, 23-27 July",USA,Third Place,
+645,2019,Powerlifting,Jennifer Aitken,"CPU Lift the Rock, Powerlifting, Women Classic 185+ Open, Victoria, British Columbia, 10 November",Canada,First Place,
+646,2019,Powerlifting,Kristine Baytun,"CPU BCPA Fall Classic Powerlifting, Women Classic 185+ Open, New Westminster, British Columbia, Canada, 12 October",Canada,First Place,
+647,2019,Powerlifting,Jenn Mcneil,"CPU BCPA Fall Classic Powerlifting, Women Classic 185+ Open, New Westminster, British Columbia, Canada, 12 October",Canada,Second Place,
+648,2019,Track and Field,Alanna Smith,New England Regional Women's Track Championships; 200 meter,USA,Second Place,[1]
+649,2019,Track and Field,Selina Soule,Qualifying Rounds for Connecticut State High School Women's Track Championships; 55 meter,USA,Would have qualified for the state championship and the New England championship,[1]
+650,2019,Track and Field,Chelsea Mitchell,"CIAC Combined Class S Championships, Connecticut State High School Women's Track; 55 meter,",USA,First Place,[1]
+651,2019,Track and Field,Brianna Westbury,"CIAC Combined Class S Championships, Connecticut State High School Women's Track; 55 meter,",USA,Second Place,[1]
+652,2019,Track and Field,D'Jior Delisser,"CIAC Combined Class S Championships, Connecticut State High School Women's Track; 55 meter,",USA,Third Place,[1]
+653,2019,Track and Field,Minna Sveard,"NCAA Division II Outdoor Track & Field Championships, Women's 400 Hurdles Finals, Kingsville, TX, 23-25 May",USA,First Place,"[1],[2],[3]"
+654,2019,Track and Field,Shannon Kalawan,"NCAA Division II Outdoor Track & Field Championships, Women's 400 Hurdles Preliminaries, Kingsville, TX, 23-25 May",USA,First Place,"[1],[2],[3]"
+655,2019,Track and Field,Alyssa Madden,"New England Indoor Track and Field Championships, Womens Varsity 300 Meters, Boston, MA, USA, 2 March",USA,First Place,"[1],[2]"
+656,2019,Track and Field,Victoria Bossong,"New England Indoor Track and Field Championships, Womens Varsity 300 Meters, Boston, MA, USA, 2 March",USA,Second Place,"[1],[2]"
+657,2019,Track and Field,Kimesha Lewis,"New England Indoor Track and Field Championships, Womens Varsity 300 Meters, Boston, MA, USA, 2 March",USA,Third Place,"[1],[2]"
+658,2019,Track and Field,Samantha Forrest,"CIAC Combined State Open Championships, Womens Varsity 300 Meters, New Haven, CT, 16 February",USA,Third Place,"[1],[2]"
+659,2019,Track and Field,Jada Boyd,"CIAC Combined State Open Championships, Womens Varsity 300 Meters, New Haven, CT, 16 February",USA,Second Place,"[1],[2]"
+660,2019,Track and Field,Jillian Mars,"CIAC Combined State Open Championships, Womens Varsity 300 Meters, New Haven, CT, 16 February",USA,First Place,"[1],[2]"
+661,2019,Track and Field,Jillian Mars,"CIAC Combined Class S Championships, Girls 300 Meter Dash Finals, New Haven, CT, USA, 7 Feb",USA,First Place,"[1],[2]"
+662,2019,Track and Field,Kate Carleson,"CIAC Combined Class S Championships, Girls 300 Meter Dash Finals, New Haven, CT, USA, 7 Feb",USA,Second Place,"[1],[2]"
+663,2019,Track and Field,Shante Brown,"CIAC Combined Class S Championships, Girls 300 Meter Dash Finals, New Haven, CT, USA, 7 Feb",USA,Third Place,"[1],[2],[3]"
+664,2019,Track and Field,Molly Harding,"CCC Indoor TF Championship, New Haven, Girls 300 Meter Dash Finals, CT, USA, 26 January",USA,Third Place,"[1],[2]"
+665,2019,Track and Field,Samantha Forrest,"CCC Indoor TF Championship, New Haven, Girls 300 Meter Dash Finals, CT, USA, 26 January",USA,Second Place,"[1],[2]"
+666,2019,Track and Field,Jillian Mars,"CCC Indoor TF Championship, New Haven, Girls 300 Meter Dash Finals, CT, USA, 26 January",USA,First Place,"[1],[2]"
+667,2019,Track and Field,Samantha Forrest,"37th Yale Interscholastic Track Classic, Girls 300 Meter Dash Finals, New Haven, CT, USA 11-12 January",USA,First Place,"[1],[2]"
+668,2019,Track and Field,Molly Harding,"37th Yale Interscholastic Track Classic, Girls 300 Meter Dash Finals, New Haven, CT, USA 11-12 January",USA,Second Place,"[1],[2]"
+669,2019,Track and Field,Carly Swierbut,"37th Yale Interscholastic Track Classic, Girls 300 Meter Dash Finals, New Haven, CT, USA 11-12 January",USA,Third Place,"[1],[2]"
+670,2019,Track and Field,Jillian Mars,"URI Rhody Classic, Womens Varsity 300 Meters, Kingston, RI, USA, 5 January",USA,First Place,"[1],[2]"
+671,2019,Track and Field,Kate Carleson,"URI Rhody Classic, Womens Varsity 300 Meters, Kingston, RI, USA, 5 January",USA,Second Place,"[1],[2]"
+672,2019,Track and Field,Sadie Souls,"URI Rhody Classic, Womens Varsity 300 Meters, Kingston, RI, USA, 5 January",USA,Third Place,"[1],[2],[3]"
+673,2019,Track and Field,Selina Soule,"CCC Indoor TF Championship, Womens Standard 55 Meter Dash, New Haven, CT, USA, 26 January",USA,Third Place,"[1],[2]"
+674,2019,Track and Field,Kate Shaffer,"CCC Indoor TF Championship, Womens Standard 55 Meter Dash, New Haven, CT, USA, 26 January",USA,Second Place,"[1],[2]"
+675,2019,Track and Field,Cori Richardson,"CCC Indoor TF Championship, Womens Standard 55 Meter Dash, New Haven, CT, USA, 26 January",USA,First Place,"[1],[2]"
+676,2019,Track and Field,Jordan Lamarre,"East Coast Invitational, Womens Scholastic 55 Meter Dash, Providence, RI, USA, 19 January",USA,Third Place,"[1],[2]"
+677,2019,Track and Field,Nyimah Ambrose,"East Coast Invitational, Womens Scholastic 55 Meter Dash, Providence, RI, USA, 19 January",USA,Second Place,"[1],[2]"
+678,2019,Track and Field,Kimesha Lewis,"East Coast Invitational, Womens Scholastic 55 Meter Dash, Providence, RI, USA, 19 January",USA,First Place,"[1],[2]"
+679,2019,Track and Field,Danielle Phillip,"URI Rhody Classic, Womens Varsity 55 Meter Dash, Kingston, RI, USA, 5 January",USA,Third Place,"[1],[2]"
+680,2019,Track and Field,Kate Butziger,"URI Rhody Classic, Womens Varsity 55 Meter Dash, Kingston, RI, USA, 5 January",USA,Second Place,"[1],[2]"
+681,2019,Track and Field,Saige Deveau,"URI Rhody Classic, Womens Varsity 55 Meter Dash, Kingston, RI, USA, 5 January",USA,First Place,"[1],[2]"
+682,2019,Track and Field,Jalah Turner,"Bulkeley @ Bloomfield, Womens Varsity Long Jump, Bloomfield, CT, USA, 23 April",USA,Second Place,"[1],[2]"
+683,2019,Track and Field,Aaliyahna Washington,"Bulkeley @ Bloomfield, Womens Varsity Long Jump, Bloomfield, CT, USA, 23 April",USA,Third Place,"[1],[2]"
+684,2019,Track and Field,Alexis Szcymecki,"Wethersfield @ Bloomfield, Womens Varsity Long Jump, Bloomfield, CT, USA 16 April",USA,Tied for Third Place,"[1],[2]"
+685,2019,Track and Field,Caitlin Nardella,"Wethersfield @ Bloomfield, Womens Varsity Long Jump, Bloomfield, CT, USA 16 April",USA,Tied for Third Place,"[1],[2]"
+686,2019,Track and Field,Shenequa Campbell,"Bloomfield HS Invitational, Womens Varsity Long Jump, Bloomfield, CT, USA, 6 April",USA,First Place,"[1],[2]"
+687,2019,Track and Field,Ghynaia Morgan,"Bloomfield HS Invitational, Womens Varsity Long Jump, Bloomfield, CT, USA, 6 April",USA,Second Place,"[1],[2]"
+688,2019,Track and Field,Saryah Winborne,"Bloomfield HS Invitational, Womens Varsity Long Jump, Bloomfield, CT, USA, 6 April",USA,Third Place,"[1],[2]"
+689,2019,Track and Field,Larada McGlashen,"Hartford Public @ Bloomfield, Womens Varsity Long Jump, Bloomfield, CT, USA, 2 April",USA,Third Place,"[1],[2]"
+690,2019,Track and Field,Zaria Williams,"Hartford Public @ Bloomfield, Womens Varsity Long Jump, Bloomfield, CT, USA, 2 April",USA,Second Place,"[1],[2]"
+691,2019,Track and Field,Ghynaia Morgan,"Season Opener, Womens Varsity Long Jump, Bloomfield, CT, USA, 30 March",USA,First Place,"[1],[2]"
+692,2019,Track and Field,Saryah Winborne,"Season Opener, Womens Varsity Long Jump, Bloomfield, CT, USA, 30 March",USA,Second Place,"[1],[2]"
+693,2019,Track and Field,Shenequa Campbell,"Season Opener, Womens Varsity Long Jump, Bloomfield, CT, USA, 30 March",USA,Third Place,"[1],[2]"
+694,2019,Track and Field,Jillian Mars,"Windsor @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 14 May",USA,First Place,"[1],[2]"
+695,2019,Track and Field,Jalah Cooper,"Windsor @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 14 May",USA,Second Place,"[1],[2]"
+696,2019,Track and Field,Zarieh Coleman,"Windsor @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 14 May",USA,Third Place,"[1],[2]"
+697,2019,Track and Field,Maggie Callahan,"Newington @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA",USA,First Place,"[1],[2]"
+698,2019,Track and Field,Shante Brown,"Bulkeley @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 23 April",USA,First Place,"[1],[2]"
+699,2019,Track and Field,Jahlia Banton,"Bulkeley @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 23 April",USA,Second Place,"[1],[2]"
+700,2019,Track and Field,Jahmiha Lindo,"Bulkeley @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 23 April",USA,Third Place,"[1],[2]"
+701,2019,Track and Field,Jahlia Banton,"Wethersfield @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 16 April",USA,First Place,"[1],[2]"
+702,2019,Track and Field,Adriana Mantilla,"Wethersfield @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 16 April",USA,Second Place,"[1],[2]"
+703,2019,Track and Field,Shante Brown,"Wethersfield @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA, 16 April",USA,Third Place,"[1],[2]"
+704,2019,Track and Field,Jahlia Banton,"Bloomfield @ Rocky Hill, Womens Varsity 400 Meters, CT, USA, 9 April",USA,First Place,"[1],[2]"
+705,2019,Track and Field,Jillian Mars,"Bloomfield @ Rocky Hill, Womens Varsity 400 Meters, CT, USA, 9 April",USA,Second Place,"[1],[2]"
+706,2019,Track and Field,Lilah Devine,"Bloomfield @ Rocky Hill, Womens Varsity 400 Meters, CT, USA, 9 April",USA,Third Place,"[1],[2]"
+707,2019,Track and Field,Shenequa Campbell,"Hartford Public @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA 2 April",USA,Third Place,"[1],[2]"
+708,2019,Track and Field,Jahlia Banton,"Hartford Public @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA 2 April",USA,Second Place,"[1],[2]"
+709,2019,Track and Field,Jadyn Gibson,"Hartford Public @ Bloomfield, Womens Varsity 400 Meters, Bloomfield, CT, USA 2 April",USA,First Place,"[1],[2],[3]"
+710,2019,Track and Field,Emma Gallant,"74th New England Interscholastic Track and Field Championships, Womens Varsity 200 Meters, Saco, ME, USA 8 June",USA,Third Place,"[1],[2]"
+711,2019,Track and Field,Alanna Smith,"74th New England Interscholastic Track and Field Championships, Womens Varsity 200 Meters, Saco, ME, USA 8 June",USA,Second Place,"[1],[2]"
+712,2019,Track and Field,Cori Richardson,"74th New England Interscholastic Track and Field Championships, Womens Varsity 200 Meters, Saco, ME, USA 8 June",USA,First Place,"[1],[2]"
+713,2019,Track and Field,Chelsea Mitchell,"CIAC Combined Class S Championship, Womens Varsity 200 Meters, New Britain, CT, USA, 30 May",USA,First Place,"[1],[2]"
+714,2019,Track and Field,Jillian Mars,"CIAC Combined Class S Championship, Womens Varsity 200 Meters, New Britain, CT, USA, 30 May",USA,Second Place,"[1],[2]"
+715,2019,Track and Field,Raquel Rosa,"CIAC Combined Class S Championship, Womens Varsity 200 Meters, New Britain, CT, USA, 30 May",USA,Third Place,"[1],[2]"
+716,2019,Track and Field,Cori Richardson,"CIAC Combined State Open Championship, Womens Varsity 200 Meters, New Britain, CT, USA, 3 June",USA,First Place,"[1],[2]"
+717,2019,Track and Field,Alanna Smith,"CIAC Combined State Open Championship, Womens Varsity 200 Meters, New Britain, CT, USA, 3 June",USA,Second Place,"[1],[2]"
+718,2019,Track and Field,Chelsea Mitchell,"CIAC Combined State Open Championship, Womens Varsity 200 Meters, New Britain, CT, USA, 3 June",USA,Third Place,"[1],[2]"
+719,2019,Track and Field,Jalah Cooper,"Windsor @ Bloomfield, Womens Varsity 200 Meters, Bloomfield, CT, USA, 14 May",USA,Third Place,"[1],[2]"
+720,2019,Track and Field,Zarieh Coleman,"Windsor @ Bloomfield, Womens Varsity 200 Meters, Bloomfield, CT, USA, 14 May",USA,Second Place,"[1],[2]"
+721,2019,Track and Field,Cori Richardson,"Windsor @ Bloomfield, Womens Varsity 200 Meters, Bloomfield, CT, USA, 14 May",USA,First Place,"[1],[2]"
+722,2019,Track and Field,Chelsea Mitchell,"88th Greater Hartford Outdoor Track and Field Invite, Womens Varsity 200 Meters, Hartford, CT, USA, 11 May",USA,First Place,"[1],[2]"
+723,2019,Track and Field,Nichele Smith,"88th Greater Hartford Outdoor Track and Field Invite, Womens Varsity 200 Meters, Hartford, CT, USA, 11 May",USA,Second Place,"[1],[2]"
+724,2019,Track and Field,Bridget Lalonde,"88th Greater Hartford Outdoor Track and Field Invite, Womens Varsity 200 Meters, Hartford, CT, USA, 11 May",USA,Third Place,"[1],[2]"
+725,2019,Track and Field,Janyla Bonds,"Womens Varsity 100 Meters, Hartford Public @ Bloomfield, Bloomfield High, CT, 2 Apr",USA,First Place,[1]
+726,2019,Track and Field,Jahmiha Lindo,"Womens Varsity 100 Meters, Hartford Public @ Bloomfield, Bloomfield High, CT, 2 Apr",USA,Second Place,[1]
+727,2019,Track and Field,Santorini Mooving,"Womens Varsity 100 Meters, Hartford Public @ Bloomfield, Bloomfield High, CT, 2 Apr",USA,Third Place,[1]
+728,2019,Track and Field,Cori Richardson,"Womens Varsity 100 Meters, Bloomfield HS Invitational, Bloomfield High, CT, 6 Apr",USA,First Place,[1]
+729,2019,Track and Field,Livvy Pizzitola,"Womens Varsity 100 Meters, Bloomfield HS Invitational, Bloomfield High, CT, 6 Apr",USA,Second Place,[1]
+730,2019,Track and Field,Samantha Przybylski,"Womens Varsity 100 Meters, Bloomfield HS Invitational, Bloomfield High, CT, 6 Apr",USA,Third Place,[1]
+731,2019,Track Cycling,Dawn Orwick,"UCI Track Cycling World Championships, F35-39 Sprint",USA,First Place,
+732,2019,Track Cycling,Kirsten Herup Sovang,"UCI Track Cycling World Championships, F35-39 Sprint",Denmark,Second Place,
+733,2019,Track Cycling,Amber Walsh,"UCI Track Cycling World Championships, F35-39 Sprint",Australia,Third Place,
+734,2019,Track Cycling,Naomi Lovesay,"UCI Track Cycling World Championship, F35-39 500m Time Trial",UK,Second Place,
+735,2019,Track Cycling,Kirsten Herup Sovang,"UCI Track Cycling World Championship, F35-39 500m Time Trial",Denmark,Third Place,
+736,2019,Weightlifting,Feagaiga Stowers,Pacific Games; over 87 kg Women's Weightlifting (Snatch),Samoa,First Place,[1]
+737,2019,Weightlifting,Feagaiga Stowers,Pacific Games; over 87 kg Women's Weightlifting (Clean and Jerk),Samoa,Second Place,[1]
+738,2019,Weightlifting,Feagaiga Stowers,Pacific Games; over 87 kg Women's Weightlifting (Total),Samoa,Gold Medal,[1]
+739,2019,Weightlifting,Charisma Amoe-Tarrant,Pacific Games; over 87 kg Women's Weightlifting (Snatch),Samoa,Second Place,[1]
+740,2019,Weightlifting,Iuniarra Sipaia,Pacific Games; over 87 kg Women's Weightlifting (Total),Samoa,Silver Medal,[1]
+741,2019,Weightlifting,Iuniarra Sipaia,Pacific Games; over 87 kg Women's Weightlifting (Snatch),Samoa,Third Place,[1]
+742,2019,Weightlifting,Charisma Amoe-Tarrant,Pacific Games; over 87 kg Women's Weightlifting (Clean and Jerk),Samoa,Third Place,[1]
+743,2019,Weightlifting,Charisma Amoe-Tarrant,Pacific Games; over 87 kg Women's Weightlifting (Total),Samoa,Bronze Medal,[1]
+744,2018,Cycling,Daphne Karagianis,Darkblade Systems Thunderbird Road Race,USA,Colorado State Road Race Champion,
+745,2018,Cycling,Nicole Mertz,"Intelligentsia Cup; William Blair Grand Prix at Goose Island Beer Co., Women Fixed Gear",USA,First Place,
+746,2018,Cycling,Hilary Luther,"River Cities Cyclocross Crusade: PIR Heron Lakes, Masters Women 35 +, Portland, OR, 14 Oct",USA,Second Place,
+747,2018,Cycling,Autumn Shreve,"River Cities Cyclocross Crusade: PIR Heron Lakes, Masters Women 35 +, Portland, OR, 14 Oct",USA,Third Place,
+748,2018,Cycling,Norma Hilton,"Red Kite Championship Weekend and NCNCA Masters, CRIT Women Master 65+ Cat 1/2/3/4/5, Pleasanton, CA, 1-2 Sept",USA,First Place,
+749,2018,Mountain Biking,Shania Rawson,"New Zealand National Championship in Downhill Mountain Bike Racing, Wanaka, NZ, January",New Zealand,First Place,
+750,2018,Mountain Biking,Amy Cole,"New Zealand National Championship in Downhill Mountain Bike Racing, Wanaka, NZ, January",New Zealand,Second Place,
+751,2018,Track and Field,Nyia White,"North Shore Invitational, Womens Varsity 300 Meters, New York, NY, USA, 28 December",USA,Third Place,"[1],[2]"
+752,2018,Track and Field,Jillian Mars,"North Shore Invitational, Womens Varsity 300 Meters, New York, NY, USA, 28 December",USA,Second Place,"[1],[2]"
+753,2018,Track and Field,Alexandria Yarbrough,"North Shore Invitational, Womens Varsity 300 Meters, New York, NY, USA, 28 December",USA,First Place,"[1],[2]"
+754,2018,Track and Field,Jalah Cooper,"Hillhouse Invitational, Womens Varsity 300 Meters, New Haven, CT, USA, 14-15 December",USA,Third Place,"[1],[2]"
+755,2018,Track and Field,Jada Boyd,"Hillhouse Invitational, Womens Varsity 300 Meters, New Haven, CT, USA, 14-15 December",USA,Second Place,"[1],[2]"
+756,2018,Track and Field,Nyia White,"Hillhouse Invitational, Womens Varsity 300 Meters, New Haven, CT, USA, 14-15 December",USA,First Place,"[1],[2]"
+757,2018,Track and Field,Jadyn Gibson,"Hillhouse Developmental, Womens Varsity 300 Meters, New Haven, CT, USA, 8 December",USA,First Place,"[1],[2]"
+758,2018,Track and Field,Sidney Palinkas,"Hillhouse Developmental, Womens Varsity 300 Meters, New Haven, CT, USA, 8 December",USA,Second Place,"[1],[2]"
+759,2018,Track and Field,Brianna Westberry,"Hillhouse Developmental, Womens Varsity 300 Meters, New Haven, CT, USA, 8 December",USA,Third Place,"[1],[2]"
+760,2018,Track and Field,Rachel Sterle,"Boston Holiday Challenge, Womens Varsity 55 Meter Dash, Boston, MA, USA, 28 December",USA,Third Place,"[1],[2]"
+761,2018,Track and Field,Lily Wetherbee,"Boston Holiday Challenge, Womens Varsity 55 Meter Dash, Boston, MA, USA, 28 December",USA,Second Place,"[1],[2]"
+762,2018,Track and Field,Mia D'Ambrosio,"Boston Holiday Challenge, Womens Varsity 55 Meter Dash, Boston, MA, USA, 28 December",USA,First Place,"[1],[2]"
+763,2018,Track and Field,Gianna McGowan,"North Shore Invitational, Womens Varsity 55 Meter Dash, New York City, NY, USA, 26 December",USA,Third Place,"[1],[2]"
+764,2018,Track and Field,Tatianna Kistner,"North Shore Invitational, Womens Varsity 55 Meter Dash, New York City, NY, USA, 26 December",USA,Second Place,"[1],[2]"
+765,2018,Track and Field,Chibugo Obichere,"North Shore Invitational, Womens Varsity 55 Meter Dash, New York City, NY, USA, 26 December",USA,First Place,"[1],[2]"
+766,2018,Track and Field,Christline Edward,"Hillhouse Qualifier, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 22 December",USA,Third Place,"[1],[2]"
+767,2018,Track and Field,Kate Shaffer,"Hillhouse Qualifier, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 22 December",USA,Second Place,"[1],[2]"
+768,2018,Track and Field,Carly Swierbut,"Hillhouse Qualifier, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 22 December",USA,First Place,"[1],[2]"
+769,2018,Track and Field,Magnalen Camara,"Hillhouse Invitational, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 14-15 December",USA,Third Place,"[1],[2]"
+770,2018,Track and Field,Cori Richardson,"Hillhouse Invitational, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 14-15 December",USA,Second Place,"[1],[2]"
+771,2018,Track and Field,Ayesha Nelson,"Hillhouse Invitational, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 14-15 December",USA,First Place,"[1],[2]"
+772,2018,Track and Field,Nyimah Ambrose,"Hillhouse Developmental, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 8 December",USA,Third Place,"[1],[2]"
+773,2018,Track and Field,Peyton McNamara,"Hillhouse Developmental, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 8 December",USA,Second Place,"[1],[2]"
+774,2018,Track and Field,Ayesha Nelson,"Hillhouse Developmental, Womens Varsity 55 Meter Dash, New Haven, CT, USA, 8 December",USA,First Place,"[1],[2]"
+775,2018,Track Cycling,Carolien van Herrikhuyzen,UCI Track Cycling World Championships; F35-44 Sprint,Netherlands,First Place,
+776,2018,Track Cycling,Jannifer Wagner-Assali,UCI Track Cycling World Championships; F35-44 Sprint,USA,Second Place,
+777,2018,Track Cycling,Linsey Hamilton,UCI Track Cycling World Championships; F35-44 Sprint,USA,Third Place,
+778,2018,Track Cycling,Sarah Caravella-Fader,UCI Track Cycling World Championships; F35-44 Sprint,USA,Withdrew in protest,
+779,2017,Cycling,Judah Sencenbaugh,"Greenville Spring Series, 25 Feb",USA,First Place,
+780,2017,Cycling,Judah Sencenbaugh,"Tour of the Southern Highlands, Circuit Race; 4 Mar",USA,First Place,
+781,2017,Cycling,Cassidy Hickey,"Front Range Cycling Classic, Criterium",USA,First Place,
+782,2017,Cycling,Caroline Mani,"Colorado Springs Orthopedic Group presents Community Crits at PPIR, 22 Aug",USA,First Place,
+783,2017,Cycling,Maria Giulia Confalonieri,"Women's Elite, 8th Dwars door de Westhoek, Boezinge, Belgium, 14 May",Italy,Second Place,
+784,2017,Cycling,Valerie Demey,"Women's Elite, 8th Dwars door de Westhoek, Boezinge, Belgium, 14 May",Belgium,Third Place,
+785,2017,Cycling,Norma Hilton,"Red Kite Championship and NCNCA Masters, CRIT Women Master 65+ Cat 1/2/3/4/5, Pleasanton, CA, 3 Sept",USA,First Place,
+786,2017,Cycling,Narda Roushdi,"Red Kite Championship and NCNCA Masters, CRIT Women Master 65+ Cat 1/2/3/4/5, Pleasanton, CA, 3 Sept",USA,Second Place,
+787,2017,Disc Golf,Carli Bennett,"New England Disc Golf Championships, FPO Open Women, Ayer, MA, 30 September",USA,First Place,[1]
+788,2017,Disc Golf,Kathryn Gray,"New England Disc Golf Championships, FPO Open Women, Ayer, MA, 30 September",USA,Second Place,[1]
+789,2017,Disc Golf,Ashley Toomey,"The Fourth Annual 28 Chain Salute, Open Women, Devens, MA, 8 July",USA,First Place,[1]
+790,2017,Disc Golf,Kathryn Gray,"The Fourth Annual 28 Chain Salute, Open Women, Devens, MA, 8 July",USA,Second Place,[1]
+791,2017,Disc Golf,Fallon Enman,"The Fourth Annual 28 Chain Salute, Open Women, Devens, MA, 8 July",USA,Third Place,[1]
+792,2017,Disc Golf,Wendy Boutin,"Tully Open, FPO Open Women, Royalston, Massachusetts, 21 May",USA,First Place,[1]
+793,2017,Disc Golf,Julie Ferdella,"Tully Open, FPO Open Women, Royalston, Massachusetts, 21 May",USA,Second Place,[1]
+794,2017,Disc Golf,Nicole Dionisio,"The Farmers Daughters Open, FPO Open Women, Gardiner, Maine, 13 May",USA,First Place,[1]
+795,2017,Disc Golf,Erica Johnson,"The Farmers Daughters Open, FPO Open Women, Gardiner, Maine, 13 May",USA,Second Place,[1]
+796,2017,Disc Golf,Jennifer Mcgibbon,"The Farmers Daughters Open, FPO Open Women, Gardiner, Maine, 13 May",USA,Third Place,[1]
+797,2017,Disc Golf,Kathryn Gray,"Eastern Championships 12, FPO Open Women, Topsfield, Massachusetts, 6 May",USA,First Place,[1]
+798,2016,Cycling,Debbie Milne,Greenville Spring Series #6; 28 Feb; Women Cat 1/2/3/4,USA,First Place,
+799,2016,Cycling,Allison Linnell,Sunshine GP - Pinellas Park; Women 1/2; 20 March,USA,First Place,
+800,2016,Cycling,Hannah Arensmen,"Dilworth Criterium, 9 Apr, Senior Women",USA,First Place,"[1],[2]"
+801,2016,Cycling,Jennifer Wakeman,The Bikelaw CCA Regional Crit Championship at the Parck Circle Criterium; 21 May; Masters Women,USA,First Place,
+802,2016,Cycling,Stephanie Cucas,"SweetWater IPA Omnium, Crit, 5 Jun, Women P/1/2",USA,First Place,
+803,2016,Cycling,Megan Heath,"Georgia Cycling Gran Prix, Infinite Energy Area, 22 July, Women P/1/2/3",USA,First Place,
+804,2016,Cycling,Megan Heath,"Georgia Cycling Gran Prix, Newton County Circuit Race, Women P/1/2/3, 24 July",USA,First Place,
+805,2016,Cycling,Stephanie Cucaz,"Crossroads Classic Day 1; 4 Aug, Women Masters Open",USA,First Place,
+806,2016,Cycling,Kate Kirkpatrick,"Crossroads Classic Day 2, 5 Aug, Women Masters Open",USA,First Place,
+807,2016,Cycling,Kate Kirkpatrick,"Crossroads Classic Day 3, 6 Aug, Women Masters Open",USA,First Place,
+808,2016,Cycling,Stephanie Cucaz,"Crossroads Classic Day 4, 7 Aug, Women Masters Open",USA,First Place,
+809,2016,Cycling,Helen Casabona,"Red Kite Omnium Cycling Event #13, Red Kite Criterium, CRIT Woman Master 55+ Cat 1/2/3/4/5, Livermore, CA, 7 Aug",USA,Second Place,
+810,2016,Cycling,Norma Hilton,"Red Kite Omnium Cycling Event #13, Red Kite Criterium, CRIT Woman Master 55+ Cat 1/2/3/4/5, Livermore, CA, 7 Aug",USA,Third Place,
+811,2016,Cycling,Jenny Frayer,"Red Kite Championship Weekend, Omnium and NCNCA Masters, Cycling, CRIT Women Master 60-64 Cat 1/2/3/4/5, Pleasanton, CA, 3-4 Sept",USA,Second Place,
+812,2016,Disc Golf,Kathryn Gray,"2nd Annual Devens Womens Open, FPO Open Women, Devens, Massachusetts, 21 August",USA,First Place,[1]
+813,2016,Disc Golf,Fallon Enman,"2nd Annual Devens Womens Open, FPO Open Women, Devens, Massachusetts, 21 August",USA,Second Place,[1]
+814,2016,Disc Golf,Ashley Toomey,"The Third Annual 28 Chain Salute - All Pro &amp; MA1, FPO Open Women, Devens, Massachusetts, 23 July",USA,First Place,[1]
+815,2016,Indoor Rowing,Carie Graves,"C.R.A.S.H.-B Sprints World Indoor Rowing Championships, Women's 60-64, Boston, MA, 28 February",USA,First Place without Tie,
+816,2016,Indoor Rowing,Jeanne Perantoni,"C.R.A.S.H.-B Sprints World Indoor Rowing Championships, Women's 60-64, Boston, MA, 28 February",USA,Second Place,
+817,2016,Mountain Biking,Anna Sparks,"El Tour de Tucson Mountain Biking, Women's 106 miles, Tucson, Arizona, 19 November",USA,First Place,
+818,2016,Mountain Biking,Suzanne Sonye,"El Tour de Tucson Mountain Biking, Women's 106 miles, Tucson, Arizona, 19 November",USA,Second Place,
+819,2016,Mountain Biking,Jennifer Chansley,"El Tour de Tucson Mountain Biking, Women's 106 miles, Tucson, Arizona, 19 November",USA,Third Place,
+820,2016,Track and Field,Melissa Bishop,"Summer Olympics, Women's 800 meters race, Rio de Janiero, Brazil, 20 August",Canada,Gold Medal*,"[1],[2]"
+821,2016,Track and Field,Joanna Jozwik,"Summer Olympics, Women's 800 meters race, Rio de Janiero, Brazil, 20 August",Poland,Silver Medal*,"[1],[2]"
+822,2016,Track and Field,Lynsey Sharp,"Summer Olympics, Women's 800 meters race, Rio de Janiero, Brazil, 20 August",UK,Bronze Medal*,"[1],[2]"
+823,2015,Cycling,Ayesha McGowan,Park Circle Criterium; April 28; Women Cat 3/4,USA,First Place,
+824,2015,Cycling,Chris Tommerdahl,CCA Regional Champs Road Race; Women 19+; June 27-28,USA,First Place,
+825,2015,Cycling,Sarah Dudley,SRS #2; Albany Crit; Women Cat 3/4; 16 May,USA,First Place,
+826,2015,Cycling,Holli Steelman,"43rd Carolina Cup, September 3; Women Cat 1/2/3/4",USA,First Place,
+827,2015,Cycling,Emily Cooper,"HHC Rumble @ Roebling; Saturday, Women Cat 3, 8 August",USA,First Place,
+828,2015,Cycling,Jennifer Vogel,"HHC Rumble @ Roebling; Saturday, Women Cat 3/4, 8 August",USA,First Place,
+829,2015,Cycling,Ava Sykes,"HHC Rumble @ Roebling; Saturday, Women Cat 3, 9 August",USA,First Place,
+830,2015,Cycling,Lotte Kopecky,"Women's Elite; 9th Trofee Maarten Wynants, 16 May, Helchteren, Belgium",Belgium,First Place,
+831,2015,Cycling,Sara Mustonen,"Women's Elite; 9th Trofee Maarten Wynants, 16 May, Helchteren, Belgium",Belgium,Second Place,
+832,2015,Cycling,Sofie De Vuyst,"Women's Elite; 9th Trofee Maarten Wynants, 16 May, Helchteren, Belgium",Belgium,Third Place,
+833,2015,Cycling,Anouska Koster,"Women's Elite, Ronde van Overijssel Women, Rijssen, Netherlands, 1 May",Netherlands,Second Place,
+834,2015,Cycling,Ellen Van Dijk,"Women's Elite, Ronde van Overijssel Women, Rijssen, Netherlands, 1 May",Netherlands,Third Place,
+835,2015,Disc Golf,Joy Hartwell,"The 28 Chain Salute, FPO Open Women, Devens, Massachusetts, 20 June",USA,First Place,[1]
+836,2015,Disc Golf,Ashley Toomey,"Borderland Spring Fling, FPO Open Women, North Easton, Massachusetts, 6-7 June",USA,First Place,[1]
+837,2015,Disc Golf,Joy Hartwell,"Eastern Massachusetts Championships X, FPO Open Women, Topsfield, Massachusetts, 3 May",USA,First Place,[1]
+838,2015,Disc Golf,Ashley Toomey,"Amesbury Pines Open XX, FPO Open Women, Amesbury, Massachusetts, 2 May",USA,First Place,[1]
+839,2014,Cycling,Melanie Petersen,"Salinas Criterium, Cycling, CRIT Women Cat 4, Salinas, CA, 25 May",USA,Third Place,
+840,2014,Disc Golf,Dena Laudon,"3rd Annual Webster Fall Open + Pig Roast, FPO Open Women, Webster, Massachusetts, 6 September",USA,Second Place,
+841,2014,Disc Golf,Erica Johnson,"3rd Annual Webster Fall Open + Pig Roast, FPO Open Women, Webster, Massachusetts, 6 September",USA,First Place,
+842,2014,Disc Golf,Erica Johnson,"3rd Annual Webster Fall Open, FPO Open Women, Webster, Massachusetts, 6 September",USA,First Place,[1]
+843,2014,Disc Golf,Dena Laudon,"3rd Annual Webster Fall Open, FPO Open Women, Webster, Massachusetts, 6 September",USA,Second Place,[1]
+844,2014,Disc Golf,Mandy Sharp,"WGE - The Ladies of Music City Disc Golf present the 2014 Women's Global Event, FPO Open Women, Nashville, TN, 10 May",USA,First Place,[1]
+845,2014,Disc Golf,Rebecca Kersey,"WGE - The Ladies of Music City Disc Golf present the 2014 Women's Global Event, FPO Open Women, Nashville, TN, 10 May",USA,Second Place,[1]
+846,2014,Disc Golf,Amanda Robinson,"WGE - The Ladies of Music City Disc Golf present the 2014 Women's Global Event, FPO Open Women, Nashville, TN, 10 May",USA,Third Place,[1]
+847,2014,Disc Golf,Krystin Nowicki,"The Amateur Championship at Bowling Green, FA1 Advanced Women, Bowling Green, KY, 11-13 April",USA,First Place,[1]
+848,2014,Disc Golf,Dalva McCandless,"The Amateur Championship at Bowling Green, FA1 Advanced Women, Bowling Green, KY, 11-13 April",USA,Second Place,[1]
+849,2014,Disc Golf,Becky Gerhart,"The Amateur Championship at Bowling Green, FA1 Advanced Women, Bowling Green, KY, 11-13 April",USA,Third Place,[1]
+850,2008,Golf,Phillis Meti,World Long Drive Championship,USA,First Place,"[1],[2]"
+851,2006,Mountain Biking,Danika Schroeter,"Canadian Mountain Bike Downhill Cycling National Championships, Women, 23 July",Canada,First Place,[1]
+852,2006,Mountain Biking,Petra Wiltshire,"DHI Masters World Championships, Women's 35+ division, Sun Peaks, British Columbia, September 2",UK,First Place,[1]
+853,2006,Mountain Biking,Julie Olsen,"DHI Masters World Championships, Women's 35+ division, Sun Peaks, British Columbia, September 2",USA,Second Place,[1]
+854,2006,Mountain Biking,Denise Britton,"DHI Masters World Championships, Women's 35+ division, Sun Peaks, British Columbia, September 2",USA,Third Place,[1]
+855,2003,Mountain Biking,Claire Buchar,Canadian National Downhill Mountain Biking Championships,Canada,First Place,[1]
+856,2003,Mountain Biking,Yasmin Kassam,"Hammerfest 2003, Elite Womens Division, Parksville, British Columbia, May 4",Canada,First Place,[1]
+857,2003,Mountain Biking,Danika Schroeter,"Hammerfest 2003, Elite Womens Division, Parksville, British Columbia, May 4",Canada,Second Place,[1]
+858,2003,Mountain Biking,Seana Wright,"Hammerfest 2003, Elite Womens Division, Parksville, British Columbia, May 4",Canada,Third Place,[1]
+859,2003,Mountain Biking,Deb MacKillop,"Bear Mountain Challenge, Elite Womens Division, Mission, British Columbia, June 8",Canada,First Place,[1]
+860,2003,Mountain Biking,Katrina Strand,"Bear Mountain Challenge, Elite Womens Division, Mission, British Columbia, June 8",Canada,Second Place,[1]
+861,2003,Mountain Biking,Adrienne Miller,"Bear Mountain Challenge, Elite Womens Division, Mission, British Columbia, June 8",Canada,Third Place,[1]
+862,2003,Mountain Biking,Deb MacKillop,"Hemlock Mountain Bike Festival, Hemlock Challenge Downhill, Elite Womens Division, Hemlock Valley Resort, August 24",Canada,Second Place,[1]
+863,2003,Mountain Biking,Katrina Strand,"Hemlock Mountain Bike Festival, Hemlock Challenge Downhill, Elite Womens Division, Hemlock Valley Resort, August 24",Canada,Third Place,[1]
+864,2002,Mountain Biking,Cassandra Boon,"Bear Mountain Challenge, Senior Elite Women division, Mission, British Columbia, June 1-2",Canada,First Place,[1]
+865,2002,Mountain Biking,Claire Buchar,"Bear Mountain Challenge, Senior Elite Women division, Mission, British Columbia, June 1-2",Canada,Second Place,[1]
+866,2002,Mountain Biking,Sylvie Allen,"Bear Mountain Challenge, Senior Elite Women division, Mission, British Columbia, June 1-2",Canada,Third Place,[1]
+867,2002,Mountain Biking,Sylvie Allen,"Sun Peaks, Senior Elite Womens Division, Sun Peaks, British Columbia, July 13-14",Canada,First Place,[1]
+868,2002,Mountain Biking,Claire Buchar,"Sun Peaks, Senior Elite Womens Division, Sun Peaks, British Columbia, July 13-14",Canada,Second Place,[1]
+869,2002,Mountain Biking,Deb MacKillop,"Sun Peaks, Senior Elite Womens Division, Sun Peaks, British Columbia, July 13-14",Canada,Third Place,[1]
+870,2002,Mountain Biking,Barb Haley,"Hemlock Challenge, Senior Elite Womens Division, Hemlock Resort, British Columbia, August 10-11",Canada,First Place,[1]
+871,2001,Mountain Biking,Katrina Strand,"Double Dog Downhill, Senior Expert Women division, Silverstar Mountain, British Columbia, July 1",Canada,First Place,[1]
+872,2001,Mountain Biking,Melanie McCullum,"Double Dog Downhill, Senior Expert Women division, Silverstar Mountain, British Columbia, July 1",Canada,Second Place,[1]
+873,2001,Mountain Biking,Suzanne Scorda,"Double Dog Downhill, Senior Expert Women division, Silverstar Mountain, British Columbia, July 1",Canada,Third Place,[1]
+874,2001,Mountain Biking,Melanie McCullum,"Bear Mountain Downhill, Senior Sport Women division, Mission British Columbia, May 26-27",Canada,First Place,[1]
+875,2001,Mountain Biking,Adrienne Miller,"Bear Mountain Downhill, Senior Sport Women division, Mission British Columbia, May 26-27",Canada,Second Place,[1]
+876,2001,Mountain Biking,Alix Ius,"Bear Mountain Downhill, Senior Sport Women division, Mission British Columbia, May 26-27",Canada,Third Place,[1]
+877,2001,Mountain Biking,Kelli Sherbinin,"Cyclepath Triple Threat, Senior Sport Women division, Crystal Mountain, British Columbia, June 2-3",Canada,First Place,[1]
+878,2001,Mountain Biking,Angela Beeson,"Cyclepath Triple Threat, Senior Sport Women division, Crystal Mountain, British Columbia, June 2-3",Canada,Second Place,[1]
+879,2001,Mountain Biking,Kristina Bangman,"Cyclepath Triple Threat, Senior Sport Women division, Crystal Mountain, British Columbia, June 2-3",Canada,Third Place,[1]
+880,2023,Road Running,Joanna Gallagher,"Exeter Half Marathon, V45 Women, Exeter, UK, February 11",UK,First Place,[1]
+881,2023,Road Running,Nicky Maguire,"Exeter Half Marathon, V45 Women, Exeter, UK, February 11",UK,Second Place,[1]
+882,2023,Road Running,Georgina Smith,"Exeter Half Marathon, V45 Women, Exeter, UK, February 11",UK,Third Place,[1]
+883,2021,Road Running,Kathryn Beades,"Torrington Christmas Caper 10, V40 Women, Great Torrington, UK, December 19",UK,Second Place,[1]
+884,2021,Road Running,Holly Webbe,"Torrington Christmas Caper 10, V40 Women, Great Torrington, UK, December 19",UK,Third Place,[1]
+885,2021,Road Running,Jo Meek,"Torrington Christmas Caper 10, V40 Women, Great Torrington, UK, December 19",UK,First Place,[1]
+886,2022,Road Running,Alison Thorn,"Michelmores 5K Charity Run, FU50 Women, Exeter, UK, September 8",UK,First Place,[1]
+887,2022,Road Running,Charlotte Bolton,"Michelmores 5K Charity Run, FU50 Women, Exeter, UK, September 8",UK,Second Place,[1]
+888,2022,Road Running,Aby Sampson,"Michelmores 5K Charity Run, FU50 Women, Exeter, UK, September 8",UK,Third Place,[1]
+889,2023,Cycling,Giulia Affaticati,"Rad Race Fixec 42 world Championship, Women's Cycling, Berlin, Germany, July 2",Italy,First Place,[1]
+890,2023,Cycling,Selina Burch,"Rad Race Fixec 42 world Championship, Women's Cycling, Berlin, Germany, July 2",Switzerland,Second Place,[1]
+891,2023,Cycling,Paola Panzeri,"Rad Race Fixec 42 world Championship, Women's Cycling, Berlin, Germany, July 2",Italy,Third Place,[1]
+892,2023,Cycling,Flavia Oliveira Parks,"Cascade Grave Grinder-Time Trial, Open Women, Bend, OR, May 12",USA,First Place,[1]
+893,2023,Cycling,Serena Bishop Gordon,"Cascade Grave Grinder-Time Trial, Open Women, Bend, OR, May 12",USA,Second Place,[1]
+894,2023,Cycling,Sarah Burke,"Cascade Grave Grinder-Time Trial, Open Women, Bend, OR, May 12",USA,Third Place,[1]
+895,2021,Disc Golf,Kimberly Giannola,"FPO Open Women, Lawrence Open 2021 Presented By DDKC in Partnership with KVDGC, April 3",USA,First Place,[1]
+896,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, Maverick DG: Centennial Chain Crash 2020 Press by Grip Equipment, Nov 28",USA,First Place,[1]
+897,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, Platypus Open, a Kaw Valley Disc Golf Club event, Nov 14",USA,First Place,[1]
+898,2020,Disc Golf,Mckayla Thomas,"FPO Open Women, 38th Annual Kansas City Wide Open, Oct 17-18",USA,First Place,[1]
+899,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, 38th Annual Kansas City Wide Open, Oct 17-18",USA,Second Place,[1]
+900,2020,Disc Golf,Amy Schmidt,"FPO Open Women, 38th Annual Kansas City Wide Open, Oct 17-18",USA,Third Place,[1]
+901,2020,Disc Golf,Katelyn Belty,"FPO Open Women, 2nd Annual Emporia Ladies Open Presented by Dynamic Discs, Oct 3-4",USA,First Place,[1]
+902,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, 2nd Annual Emporia Ladies Open Presented by Dynamic Discs, Oct 3-4",USA,Second Place,[1]
+903,2020,Disc Golf,Denise Cameron,"FPO Open Women, 2nd Annual Emporia Ladies Open Presented by Dynamic Discs, Oct 3-4",USA,Third Place,[1]
+904,2020,Disc Golf,Jaimee Crosby,"FPO Open Women, Shooting Stars Ladies Open, Sep 19",USA,First Place,[1]
+905,2020,Disc Golf,Callie Tometich,"FPO Open Women, Shooting Stars Ladies Open, Sep 19",USA,Second Place,[1]
+906,2020,Disc Golf,Emma Arp,"FPO Open Women, Shooting Stars Ladies Open, Sep 19",USA,Third Place,[1]
+907,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, LouLadies Challenge, Aug 29",USA,First Place,[1]
+908,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, Liberty Gold, Jul 26",USA,First Place,[1]
+909,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, Siege of Stanton Lake, Jul 12",USA,First Place,[1]
+910,2020,Disc Golf,Kimberly Giannola,"FPO Open Women, Kan-u-Wyco (Pro + Advanced), Mar 7",USA,First Place,[1]
+911,2020,DIsc Golf,Kaylee Kincaid,"FPO Open Women, Kan-u-Wyco (Pro + Advanced), Mar 7",USA,Second Place,[1]
+912,2019,DIsc Golf,Kimberly Giannola,"FPO Open Women, Maverick DG: Centennial Chain Crash 6 pres by Grip Equipment, Nov 30",USA,First Place,[1]
+913,2019,DIsc Golf,Kimberly Giannola,"FPO Open Women, Saint Joseph Parkway Throwdown, Nov 16",USA,First Place,[1]
