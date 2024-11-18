@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div>
+    <div>
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description }}</p>
+    </div>
+    <div>
+        <h2>Posts ({{ len site.RegularPages }})</h2>
+        {{- $months := site.RegularPages.GroupByPublishDate "2006-01" -}}
+        <nav id="toc">
+            <h3>Jump to Month</h3>
+            <ul>
+            {{ range $months -}}
+                <li>
+                    <a href="#{{ .Key }}">{{ dateFormat "January 2006" (print .Key "-01") }} ({{ len .Pages }})</a>
+                </li>
+            {{- end }}
+            </ul>
+        </nav>
+        <div>
+        {{ range $months -}}
+            <h3 id="{{ .Key }}">{{ dateFormat "January 2006" (print .Key "-01") }} ({{ len .Pages }})</h3>
+            <ul>
+            {{ range .Pages -}}
+                {{ .Render "li" }}
+            {{- end }}
+            </ul>
+        {{- end }}
+        </div>
+    </div>
+</div>
+{{ end }}
