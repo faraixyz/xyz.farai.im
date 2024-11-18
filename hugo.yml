@@ -2,7 +2,7 @@ title: Farai
 languageCode: en-zw
 copyright: All rights reserved. Plz don't steal.
 baseURL: https://im.farai.xyz/
-disableKinds: [robotstxt, sitemap, taxonomy, term, section]
+disableKinds: [robotstxt, taxonomy, term]
 taxonomies:
   series: series
   tag: tags
