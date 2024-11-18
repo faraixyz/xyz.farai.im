@@ -59,6 +59,8 @@ module:
       target: assets
     - source: images
       target: assets/images
+    - source: files
+      target: assets/files
 
 outputFormats:
   RSS:
