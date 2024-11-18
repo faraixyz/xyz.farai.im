@@ -6,11 +6,11 @@
         </p>
         <h1>{{ markdownify .LinkTitle }}</h1>
         {{ if or .Description .Params.fancyDescription -}}
-        <p>{{ with .Params.fancyDescription -}}{{ markdownify . }}{{ else }}{{ . }}{{ end }}</p>
+        <p>{{ with .Params.fancyDescription -}}{{ markdownify . }}{{ else }}{{ .Description }}{{ end }}</p>
         {{- end }}
     </div>
     <ul>
-    {{ range .RegularPages -}}
+    {{ range .RegularPagesRecursive -}}
         {{ .Render "li" }}
     {{- end }}
     </ul>
