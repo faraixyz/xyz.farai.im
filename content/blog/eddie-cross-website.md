@@ -1,5 +1,5 @@
 ---
-title: This Website Must Be Studies For Science
+title: This Website Must Be Studied For Science
 publishdate: 2024-11-17T12:11:00+02:00
 description: This website facinates me.
 tags: [zimbabwe, wtf]
