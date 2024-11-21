@@ -1,0 +1,8 @@
+{{- $id := or (.Get 0) (.Get "id") -}}
+<lite-youtube videoId="{{ $id }}" style="background-image: url('https://i.ytimg.com/vi/{{ $id }}/hqdefault.jpg');" {{ with (.Get `title`) -}}title="{{ . }}" {{- end }} {{- with .Get `params` -}}params="{{ trim . `?&` }}"{{- end }} {{ if (.Get `ytapi`) }}yt-api{{- end }}>
+    <a href="https://www.youtube.com/watch?v={{ $id }}{{- with .Get `params` -}}?{{ trim . `?&` }}{{- end -}}" class="lty-playbtn" title="Play Video{{ with (.Get `title`) -}}: {{ . }}{{- end }}">
+        <span class="lyt-visually-hidden">
+            Play Video{{ with (.Get "title") -}}: {{ . }}{{- end }}
+        </span>
+    </a>
+</lite-youtube>

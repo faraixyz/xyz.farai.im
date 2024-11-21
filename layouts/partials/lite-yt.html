@@ -1,0 +1,7 @@
+{{ if .HasShortcode "lite-yt" -}}
+{{/* YouTube Lite Embed, see https://www.farai.xyz/bikeshed/components/lite-yt/ */}}
+{{- $ytCss := resources.Get "lite-yt-embed/lite-yt-embed.css" | resources.Fingerprint -}}
+{{- $ytJs := resources.Get "lite-yt-embed/lite-yt-embed.js" | resources.Fingerprint -}}
+<link rel="stylesheet" href="{{ $ytCss.RelPermalink }}">
+<script src="{{ $ytJs.RelPermalink }}" async></script>
+{{- end }}
