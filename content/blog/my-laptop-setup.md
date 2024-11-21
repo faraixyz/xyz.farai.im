@@ -24,6 +24,12 @@ This post goes over how I set up my laptop, such as the software I use, how I co
 * [Winaero Tweaker](https://winaerotweaker.com/ '{"id":"winaero"}') lets me remove Window's annoying features, like:
     * Enabled classic context menus because the one in Windows 11 sucks.
 * [Scoop](https://scoop.sh/) which I use to install certain packages not on WinGet, like [Dart Sass](https://sass-lang.com/) and various image codecs.
+    * [vips](https://github.com/libvips/libvips) for image processing. It's supposedly faster thank Imagemagick, which is still cool. I'm also trying to add HEIF to it which is a bitch.
+* [Winget Packages](https://github.com/microsoft/winget-cli) for other tools. It comes with Windows now.
+    * [Hugo](https://gohugo.io/) which powers this website.
+* [Chrome Remote Desktop](https://remotedesktop.google.com) for attended remote assistance.
+* [Anydesk](https://anydesk.com/en) to remote to the work server since it allows unattended access.
+* 
 * [7-Zip](https://www.7-zip.org/) to compress/decompress files.
 * [Everything](https://www.voidtools.com/) which is way better at searching for files on Windows. Sure it's because it searches filenames rather than contents but filename search is what I need to do most of the time. After installing, I enable it in the context menu. I'm trying [Everything Toolbar](https://github.com/srwi/EverythingToolbar) which [Chris Titus suggested](https://christitus.com/everything-toolbar/), but it's pretty slow right now.
 * [iCloud](https://www.icloud.com/). It's pretty shit but I need it to conveniently interact with my iThings.
@@ -33,7 +39,7 @@ This post goes over how I set up my laptop, such as the software I use, how I co
 * [KDE Connect](https://kdeconnect.kde.org/) is a cross-platform AirDrop type thing. Let's you send files and even control a computer remotley.
 * [Apple Devices](https://support.apple.com/guide/devices-windows/welcome/windows) to sync my computer with my iThings. [I hate it](/the-classics/micro/apple-devices-garbage.md) though it's gotten a little better now. You can also try [CopyTrans](https://www.copytrans.net/) but it might mess with the Apple drivers since CopyTrans requires older versions of them.
 * [VLC Media Player](https://www.videolan.org/vlc/) to watch videos.
-* [qBittorrent](https://www.qbittorrent.org/) to download torrents. For a better experience, use [search plugins](https://github.com/qbittorrent/search-plugins)
+* [qBittorrent](https://www.qbittorrent.org/) to download torrents. For a better experience, use [search plugins](https://github.com/qbittorrent/search-plugins) with [Jackett](https://github.com/Jackett/Jackett/releases/tag/v0.22.910).
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download online videos.
 
 ### Productivity
@@ -41,7 +47,7 @@ This post goes over how I set up my laptop, such as the software I use, how I co
 * [Microsoft Office](https://www.office.com) is what I need for work. If I wasn't getting it from my mom I would use [LibreOffice](https://www.libreoffice.org) instead but what to do. [Excel is fun though](/the-classics/micro/ms-excel.md).
 * [Thunderbird](https://www.thunderbird.net/) as a mail client, because Microsoft Outlook pissed me off.
 * [PDF24](https://www.pdf24.org/en/) provides a lot of useful tools for working with PDFs all for free. [It works online too](https://tools.pdf24.org/en/). I should write about it someday.
-* [WhatsApp](https://www.whatsapp.com/download) to receive Whatsapp chats from the work phone.
+* [WhatsApp](https://www.whatsapp.com/download) to receive Whatsapp chats from the work phone. For my own chats I use [Whatsapp Web](https://web.whatsapp.com)
 
 ### Programming
 
